@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?>
+<CombatInfomManagement>
+<Struct container="默认分类器#" info="#" name="#*#">
+<SimpleType>
+<Name/>
+<ChineseName/>
+<Type>#</Type>
+<Desc>#</Desc>
+<Span/>
+</SimpleType>
+</Struct>
+</CombatInfomManagement>

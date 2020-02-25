@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_vzGIgMr6EemMs-fn257ICA" name="model">
+  <packagedElement xmi:type="uml:Interaction" xmi:id="_vzGIgcr6EemMs-fn257ICA" name="Interaction1">
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_G5FLocsGEemMs-fn257ICA" name="MessageSend16" covered="_6I5dsMsFEemMs-fn257ICA" message="_G5FLoMsGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_G5FLossGEemMs-fn257ICA" name="MessageRecv16" covered="_wMI6oMr6EemMs-fn257ICA" message="_G5FLoMsGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_eOoWwcr7EemMs-fn257ICA" name="MessageSend" covered="_wMI6oMr6EemMs-fn257ICA" message="_eOoWwMr7EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_eOoWwsr7EemMs-fn257ICA" name="MessageRecv" covered="_xZAWYMr6EemMs-fn257ICA" message="_eOoWwMr7EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hb_qocr7EemMs-fn257ICA" name="MessageSend2" covered="_xZAWYMr6EemMs-fn257ICA" message="_hb_qoMr7EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_hb_qosr7EemMs-fn257ICA" name="MessageRecv2" covered="_JrcmkMr7EemMs-fn257ICA" message="_hb_qoMr7EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_j_jzkcr7EemMs-fn257ICA" name="MessageSend3" covered="_JrcmkMr7EemMs-fn257ICA" message="_j_jzkMr7EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_j_jzksr7EemMs-fn257ICA" name="MessageRecv3" covered="_xZAWYMr6EemMs-fn257ICA" message="_j_jzkMr7EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_rJmYYcr7EemMs-fn257ICA" name="MessageSend4" covered="_xZAWYMr6EemMs-fn257ICA" message="_rJmYYMr7EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_rJmYYsr7EemMs-fn257ICA" name="MessageRecv4" covered="_wMI6oMr6EemMs-fn257ICA" message="_rJmYYMr7EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_v8ITQcr7EemMs-fn257ICA" name="MessageSend5" covered="_wMI6oMr6EemMs-fn257ICA" message="_v8ITQMr7EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_v8ITQsr7EemMs-fn257ICA" name="MessageRecv5" covered="_wMI6oMr6EemMs-fn257ICA" message="_v8ITQMr7EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_iyhb4cr_EemMs-fn257ICA" name="MessageSend6" covered="_wMI6oMr6EemMs-fn257ICA" message="_iyhb4Mr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_iyhb4sr_EemMs-fn257ICA" name="MessageRecv6" covered="_xZAWYMr6EemMs-fn257ICA" message="_iyhb4Mr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_mB-accr_EemMs-fn257ICA" name="MessageSend7" covered="_xZAWYMr6EemMs-fn257ICA" message="_mB-acMr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_mB-acsr_EemMs-fn257ICA" name="MessageRecv7" covered="_JrcmkMr7EemMs-fn257ICA" message="_mB-acMr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_qs__Icr_EemMs-fn257ICA" name="MessageSend8" covered="_JrcmkMr7EemMs-fn257ICA" message="_qs__IMr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_qs__Isr_EemMs-fn257ICA" name="MessageRecv8" covered="_xZAWYMr6EemMs-fn257ICA" message="_qs__IMr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_sZXaUcr_EemMs-fn257ICA" name="MessageSend9" covered="_xZAWYMr6EemMs-fn257ICA" message="_sZXaUMr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_sZXaUsr_EemMs-fn257ICA" name="MessageRecv9" covered="_wMI6oMr6EemMs-fn257ICA" message="_sZXaUMr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_xBfcAcr_EemMs-fn257ICA" name="MessageSend10" covered="_wMI6oMr6EemMs-fn257ICA" message="_xBfcAMr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_xBfcAsr_EemMs-fn257ICA" name="MessageRecv10" covered="_wMI6oMr6EemMs-fn257ICA" message="_xBfcAMr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_1FyX4cr_EemMs-fn257ICA" name="MessageSend11" covered="_wMI6oMr6EemMs-fn257ICA" message="_1FyX4Mr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_3qHV0cr_EemMs-fn257ICA" name="MessageSend12" covered="_wMI6oMr6EemMs-fn257ICA" message="_3qHV0Mr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_1FyX4sr_EemMs-fn257ICA" name="MessageRecv11" covered="_zR70oMr_EemMs-fn257ICA" message="_1FyX4Mr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_3qHV0sr_EemMs-fn257ICA" name="MessageRecv12" covered="_zR70oMr_EemMs-fn257ICA" message="_3qHV0Mr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_7iANYcr_EemMs-fn257ICA" name="MessageSend13" covered="_zR70oMr_EemMs-fn257ICA" message="_7iANYMr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_7iANYsr_EemMs-fn257ICA" name="MessageRecv13" covered="_JrcmkMr7EemMs-fn257ICA" message="_7iANYMr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_-vqcMcr_EemMs-fn257ICA" name="MessageSend14" covered="_JrcmkMr7EemMs-fn257ICA" message="_-vqcMMr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_-vqcMsr_EemMs-fn257ICA" name="MessageRecv14" covered="_zR70oMr_EemMs-fn257ICA" message="_-vqcMMr_EemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_BAlV8MsAEemMs-fn257ICA" name="MessageSend15" covered="_zR70oMr_EemMs-fn257ICA" message="_BAcMAMsAEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_BAlV8csAEemMs-fn257ICA" name="MessageRecv15" covered="_wMI6oMr6EemMs-fn257ICA" message="_BAcMAMsAEemMs-fn257ICA"/>
+    <lifeline xmi:id="_wMI6oMr6EemMs-fn257ICA" name="作战系统-对空自防御" coveredBy="_eOoWwcr7EemMs-fn257ICA _rJmYYsr7EemMs-fn257ICA _v8ITQcr7EemMs-fn257ICA _v8ITQsr7EemMs-fn257ICA _iyhb4cr_EemMs-fn257ICA _sZXaUsr_EemMs-fn257ICA _xBfcAcr_EemMs-fn257ICA _xBfcAsr_EemMs-fn257ICA _1FyX4cr_EemMs-fn257ICA _3qHV0cr_EemMs-fn257ICA _BAlV8csAEemMs-fn257ICA _G5FLossGEemMs-fn257ICA"/>
+    <lifeline xmi:id="_xZAWYMr6EemMs-fn257ICA" name="传感器" coveredBy="_eOoWwsr7EemMs-fn257ICA _hb_qocr7EemMs-fn257ICA _j_jzksr7EemMs-fn257ICA _rJmYYcr7EemMs-fn257ICA _iyhb4sr_EemMs-fn257ICA _mB-accr_EemMs-fn257ICA _qs__Isr_EemMs-fn257ICA _sZXaUcr_EemMs-fn257ICA"/>
+    <lifeline xmi:id="_JrcmkMr7EemMs-fn257ICA" name="作战对象" coveredBy="_hb_qosr7EemMs-fn257ICA _j_jzkcr7EemMs-fn257ICA _mB-acsr_EemMs-fn257ICA _qs__Icr_EemMs-fn257ICA _7iANYsr_EemMs-fn257ICA _-vqcMcr_EemMs-fn257ICA"/>
+    <lifeline xmi:id="_zR70oMr_EemMs-fn257ICA" name="交战武器系统" coveredBy="_1FyX4sr_EemMs-fn257ICA _3qHV0sr_EemMs-fn257ICA _7iANYcr_EemMs-fn257ICA _-vqcMsr_EemMs-fn257ICA _BAlV8MsAEemMs-fn257ICA"/>
+    <lifeline xmi:id="_6I5dsMsFEemMs-fn257ICA" name="编队体系" coveredBy="_G5FLocsGEemMs-fn257ICA"/>
+    <message xmi:id="_eOoWwMr7EemMs-fn257ICA" name="初始化传感器" messageSort="asynchCall" receiveEvent="_eOoWwsr7EemMs-fn257ICA" sendEvent="_eOoWwcr7EemMs-fn257ICA"/>
+    <message xmi:id="_hb_qoMr7EemMs-fn257ICA" name="扫描目标" messageSort="asynchCall" receiveEvent="_hb_qosr7EemMs-fn257ICA" sendEvent="_hb_qocr7EemMs-fn257ICA"/>
+    <message xmi:id="_j_jzkMr7EemMs-fn257ICA" name="接受目标能量" messageSort="asynchCall" receiveEvent="_j_jzksr7EemMs-fn257ICA" sendEvent="_j_jzkcr7EemMs-fn257ICA"/>
+    <message xmi:id="_rJmYYMr7EemMs-fn257ICA" name="探测数据" messageSort="asynchCall" receiveEvent="_rJmYYsr7EemMs-fn257ICA" sendEvent="_rJmYYcr7EemMs-fn257ICA"/>
+    <message xmi:id="_v8ITQMr7EemMs-fn257ICA" name="目标融合" messageSort="asynchCall" receiveEvent="_v8ITQsr7EemMs-fn257ICA" sendEvent="_v8ITQcr7EemMs-fn257ICA"/>
+    <message xmi:id="_iyhb4Mr_EemMs-fn257ICA" name="测量数据更新" messageSort="asynchCall" receiveEvent="_iyhb4sr_EemMs-fn257ICA" sendEvent="_iyhb4cr_EemMs-fn257ICA"/>
+    <message xmi:id="_mB-acMr_EemMs-fn257ICA" name="目标跟踪" messageSort="asynchCall" receiveEvent="_mB-acsr_EemMs-fn257ICA" sendEvent="_mB-accr_EemMs-fn257ICA"/>
+    <message xmi:id="_qs__IMr_EemMs-fn257ICA" name="发送航迹信息" messageSort="asynchCall" receiveEvent="_qs__Isr_EemMs-fn257ICA" sendEvent="_qs__Icr_EemMs-fn257ICA"/>
+    <message xmi:id="_sZXaUMr_EemMs-fn257ICA" name="融合航迹信息" messageSort="asynchCall" receiveEvent="_sZXaUsr_EemMs-fn257ICA" sendEvent="_sZXaUcr_EemMs-fn257ICA"/>
+    <message xmi:id="_xBfcAMr_EemMs-fn257ICA" name="威胁评估" messageSort="asynchCall" receiveEvent="_xBfcAsr_EemMs-fn257ICA" sendEvent="_xBfcAcr_EemMs-fn257ICA"/>
+    <message xmi:id="_1FyX4Mr_EemMs-fn257ICA" name="发送评估结果" messageSort="asynchCall" receiveEvent="_1FyX4sr_EemMs-fn257ICA" sendEvent="_1FyX4cr_EemMs-fn257ICA"/>
+    <message xmi:id="_3qHV0Mr_EemMs-fn257ICA" name="发送交战命令" messageSort="asynchCall" receiveEvent="_3qHV0sr_EemMs-fn257ICA" sendEvent="_3qHV0cr_EemMs-fn257ICA"/>
+    <message xmi:id="_7iANYMr_EemMs-fn257ICA" name="交战" messageSort="asynchCall" receiveEvent="_7iANYsr_EemMs-fn257ICA" sendEvent="_7iANYcr_EemMs-fn257ICA"/>
+    <message xmi:id="_-vqcMMr_EemMs-fn257ICA" name="接受交战结果" messageSort="asynchCall" receiveEvent="_-vqcMsr_EemMs-fn257ICA" sendEvent="_-vqcMcr_EemMs-fn257ICA"/>
+    <message xmi:id="_BAcMAMsAEemMs-fn257ICA" name="发送交战结果" messageSort="asynchCall" receiveEvent="_BAlV8csAEemMs-fn257ICA" sendEvent="_BAlV8MsAEemMs-fn257ICA"/>
+    <message xmi:id="_G5FLoMsGEemMs-fn257ICA" name="态势信息" messageSort="asynchCall" receiveEvent="_G5FLossGEemMs-fn257ICA" sendEvent="_G5FLocsGEemMs-fn257ICA"/>
+  </packagedElement>
+</uml:Model>

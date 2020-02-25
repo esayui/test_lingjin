@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_6FrKIA_bEeqjDam8EyRRug" name="model">
+  <packagedElement xmi:type="uml:StateMachine" xmi:id="_6FrKIQ_bEeqjDam8EyRRug" name="StateMachine0">
+    <region xmi:id="_6FrKIg_bEeqjDam8EyRRug" name="Region0">
+      <transition xmi:id="_KTOW0A_cEeqjDam8EyRRug" name="" source="_Anbm8A_cEeqjDam8EyRRug" target="_B1Fs4A_cEeqjDam8EyRRug"/>
+      <transition xmi:id="_LPB3wA_cEeqjDam8EyRRug" name="reqAnalyseEnv/analysetEnv" source="_B1Fs4A_cEeqjDam8EyRRug" target="_CVhgcA_cEeqjDam8EyRRug"/>
+      <transition xmi:id="_L7NoUA_cEeqjDam8EyRRug" name="reqSurveliance/surveliance();analyseTargetMotion();CreateTrackTable();" source="_CVhgcA_cEeqjDam8EyRRug" target="_C0LLUA_cEeqjDam8EyRRug"/>
+      <transition xmi:id="_McZCwA_cEeqjDam8EyRRug" name="reqConfirmTarget/confirmTarget();" source="_C0LLUA_cEeqjDam8EyRRug" target="_EZe8QA_cEeqjDam8EyRRug"/>
+      <transition xmi:id="_M_Nb8A_cEeqjDam8EyRRug" name="选择武器()" source="_EZe8QA_cEeqjDam8EyRRug" target="_Ez0u4A_cEeqjDam8EyRRug"/>
+      <transition xmi:id="_Oc7-MA_cEeqjDam8EyRRug" name="" source="_Ez0u4A_cEeqjDam8EyRRug" target="_FVl_MA_cEeqjDam8EyRRug"/>
+      <transition xmi:id="_O-QikA_cEeqjDam8EyRRug" name="reqFire/fire()" source="_FVl_MA_cEeqjDam8EyRRug" target="_F5v1IA_cEeqjDam8EyRRug"/>
+      <transition xmi:id="_IZF0UA_7EeqaWqk7PbMD6g" name="" source="_F5v1IA_cEeqjDam8EyRRug" target="_HD_poA_7EeqaWqk7PbMD6g"/>
+      <transition xmi:id="_JDMhQA_7EeqaWqk7PbMD6g" name="destroy" source="_HD_poA_7EeqaWqk7PbMD6g" target="_HiLykA_cEeqjDam8EyRRug"/>
+      <transition xmi:id="_LHmpAA_7EeqaWqk7PbMD6g" name="else" source="_HD_poA_7EeqaWqk7PbMD6g" target="_EZe8QA_cEeqjDam8EyRRug"/>
+      <subvertex xmi:type="uml:Pseudostate" xmi:id="_Anbm8A_cEeqjDam8EyRRug" name=""/>
+      <subvertex xmi:type="uml:State" xmi:id="_B1Fs4A_cEeqjDam8EyRRug" name="等待_请求环境分析"/>
+      <subvertex xmi:type="uml:State" xmi:id="_CVhgcA_cEeqjDam8EyRRug" name="等待_请求监控"/>
+      <subvertex xmi:type="uml:State" xmi:id="_C0LLUA_cEeqjDam8EyRRug" name="等待_请求确认目标"/>
+      <subvertex xmi:type="uml:State" xmi:id="_EZe8QA_cEeqjDam8EyRRug" name="等待_请求选择武器"/>
+      <subvertex xmi:type="uml:State" xmi:id="_Ez0u4A_cEeqjDam8EyRRug" name="retshipplatform to pShipplatform"/>
+      <subvertex xmi:type="uml:State" xmi:id="_FVl_MA_cEeqjDam8EyRRug" name="等待_请求发射"/>
+      <subvertex xmi:type="uml:State" xmi:id="_F5v1IA_cEeqjDam8EyRRug" name="作战效果评估"/>
+      <subvertex xmi:type="uml:FinalState" xmi:id="_HiLykA_cEeqjDam8EyRRug" name=""/>
+      <subvertex xmi:type="uml:Pseudostate" xmi:id="_HD_poA_7EeqaWqk7PbMD6g" name="" kind="choice"/>
+    </region>
+  </packagedElement>
+</uml:Model>

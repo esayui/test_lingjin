@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_J1BGEBWpEeqzq4bHGkSTeA" type="PapyrusUMLSequenceDiagram" name="综合反潜--顺序图Rhapsody导入--sequencediagram_7" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_J1BGERWpEeqzq4bHGkSTeA" type="2001" fontName="Microsoft YaHei UI" lineColor="0">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_J1BGEhWpEeqzq4bHGkSTeA" source="ShadowFigure">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_J1BGExWpEeqzq4bHGkSTeA" key="ShadowFigure_Value" value="false"/>
+    </eAnnotations>
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_J1BGFBWpEeqzq4bHGkSTeA" source="displayNameLabelIcon">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_J1BGFRWpEeqzq4bHGkSTeA" key="displayNameLabelIcon_value" value="false"/>
+    </eAnnotations>
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_J1BGFhWpEeqzq4bHGkSTeA" source="QualifiedName">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_J1BGFxWpEeqzq4bHGkSTeA" key="QualifiedNameDepth" value="1000"/>
+    </eAnnotations>
+    <children xmi:type="notation:DecorationNode" xmi:id="_J1BGGBWpEeqzq4bHGkSTeA" type="5001"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_J1BGGRWpEeqzq4bHGkSTeA" type="7001">
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J1BGGhWpEeqzq4bHGkSTeA"/>
+    </children>
+    <element xmi:type="uml:Interaction" href="_pRWYsA_YEeqjDam8EyRRugaba4aa98-a334-4bac-adfa-f643cb14c09f-Sequence.uml#_J0kaIRWpEeqzq4bHGkSTeA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J1BGGxWpEeqzq4bHGkSTeA"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_J1BGHBWpEeqzq4bHGkSTeA"/>
+  <element xmi:type="uml:Interaction" href="_pRWYsA_YEeqjDam8EyRRugaba4aa98-a334-4bac-adfa-f643cb14c09f-Sequence.uml#_J0kaIRWpEeqzq4bHGkSTeA"/>
+</notation:Diagram>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:av1="http://org.seri.mdt/2011/av1" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_5SEqwMsCEemMs-fn257ICA" type="Av1viewpoint" name="86edbb03-db7f-45a7-a354-dd47179e5ef75fce3921-9d9a-4477-afb3-a54572ae7f82-AVView.av1_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_5xz6wMsCEemMs-fn257ICA" type="2009" fontName="Microsoft YaHei UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_5xz6wssCEemMs-fn257ICA" type="5009">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_5xz6w8sCEemMs-fn257ICA" y="5"/>
+    </children>
+    <element xmi:type="av1:UnderwaterShip" href="86edbb03-db7f-45a7-a354-dd47179e5ef75fce3921-9d9a-4477-afb3-a54572ae7f82-AVView.av1#//@children.0"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5xz6wcsCEemMs-fn257ICA" x="140" y="315"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_9td4AMsCEemMs-fn257ICA" type="2027" fontName="Microsoft YaHei UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_9td4AssCEemMs-fn257ICA" type="5027">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_9td4A8sCEemMs-fn257ICA" y="5"/>
+    </children>
+    <element xmi:type="av1:Torpedo" href="86edbb03-db7f-45a7-a354-dd47179e5ef75fce3921-9d9a-4477-afb3-a54572ae7f82-AVView.av1#//@children.1"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9td4AcsCEemMs-fn257ICA" x="445" y="315" height="27"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_-aNpQMsCEemMs-fn257ICA" type="2009" fontName="Microsoft YaHei UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_-aNpQssCEemMs-fn257ICA" type="5009">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_-aNpQ8sCEemMs-fn257ICA" y="5"/>
+    </children>
+    <element xmi:type="av1:UnderwaterShip" href="86edbb03-db7f-45a7-a354-dd47179e5ef75fce3921-9d9a-4477-afb3-a54572ae7f82-AVView.av1#//@children.2"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-aNpQcsCEemMs-fn257ICA" x="736" y="277"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_5SEqwcsCEemMs-fn257ICA"/>
+  <element xmi:type="av1:av1view" href="86edbb03-db7f-45a7-a354-dd47179e5ef75fce3921-9d9a-4477-afb3-a54572ae7f82-AVView.av1#/"/>
+  <edges xmi:type="notation:Connector" xmi:id="_BVuYIMsDEemMs-fn257ICA" type="4004" source="_5xz6wMsCEemMs-fn257ICA" target="_9td4AMsCEemMs-fn257ICA" lineColor="0">
+    <children xmi:type="notation:DecorationNode" xmi:id="_BVuYI8sDEemMs-fn257ICA" type="6004">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_BVuYJMsDEemMs-fn257ICA" y="40"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_BVuYIcsDEemMs-fn257ICA" fontName="Microsoft YaHei UI"/>
+    <element xmi:type="av1:ArrowDashedConnection" href="86edbb03-db7f-45a7-a354-dd47179e5ef75fce3921-9d9a-4477-afb3-a54572ae7f82-AVView.av1#//@children.3"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_BVuYIssDEemMs-fn257ICA" points="[31, -2, -274, 16]$[306, -31, 1, -13]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_DAfQ0MsDEemMs-fn257ICA" type="4004" source="_9td4AMsCEemMs-fn257ICA" target="_-aNpQMsCEemMs-fn257ICA" lineColor="0">
+    <children xmi:type="notation:DecorationNode" xmi:id="_DAfQ08sDEemMs-fn257ICA" type="6004">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_DAfQ1MsDEemMs-fn257ICA" y="40"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_DAfQ0csDEemMs-fn257ICA" fontName="Microsoft YaHei UI"/>
+    <element xmi:type="av1:ArrowDashedConnection" href="86edbb03-db7f-45a7-a354-dd47179e5ef75fce3921-9d9a-4477-afb3-a54572ae7f82-AVView.av1#//@children.4"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_DAfQ0ssDEemMs-fn257ICA" points="[11, -1, -260, 21]$[240, -15, -31, 7]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_DAfQ1csDEemMs-fn257ICA" id="(0.8225806451612904,0.5555555555555556)"/>
+  </edges>
+</notation:Diagram>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_SF5wwMsDEemMs-fn257ICA" name="model">
+  <packagedElement xmi:type="uml:Activity" xmi:id="_SF5wwcsDEemMs-fn257ICA" name="综合反潜--活动图0" group="_SbrMcMsDEemMs-fn257ICA _jyb8kMsGEemMs-fn257ICA" node="_U_5csMsDEemMs-fn257ICA _VsMiAMsDEemMs-fn257ICA _ZrDkQMsDEemMs-fn257ICA _cicBEMsDEemMs-fn257ICA _fLWkEMsDEemMs-fn257ICA _hfCd8MsDEemMs-fn257ICA _kn7hgMsDEemMs-fn257ICA _lq1wAMsDEemMs-fn257ICA _ny2lYMsDEemMs-fn257ICA _pOD_IMsDEemMs-fn257ICA _qfSWcMsDEemMs-fn257ICA _sFAXEMsDEemMs-fn257ICA _vLHzcMsDEemMs-fn257ICA _w5pKwMsDEemMs-fn257ICA _-cZlIMsDEemMs-fn257ICA _mwkhoMsGEemMs-fn257ICA">
+    <edge xmi:type="uml:ControlFlow" xmi:id="__kiR4MsDEemMs-fn257ICA" name="" source="_U_5csMsDEemMs-fn257ICA" target="_mwkhoMsGEemMs-fn257ICA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="__kiR4csDEemMs-fn257ICA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="__kiR4ssDEemMs-fn257ICA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_AHz-EMsEEemMs-fn257ICA" name="" source="_VsMiAMsDEemMs-fn257ICA" target="_ZrDkQMsDEemMs-fn257ICA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_AHz-EcsEEemMs-fn257ICA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_AHz-EssEEemMs-fn257ICA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_Arc2oMsEEemMs-fn257ICA" name="" source="_ZrDkQMsDEemMs-fn257ICA" target="_cicBEMsDEemMs-fn257ICA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_Arc2ocsEEemMs-fn257ICA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_Arc2ossEEemMs-fn257ICA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_BXSB4MsEEemMs-fn257ICA" name="" source="_cicBEMsDEemMs-fn257ICA" target="_fLWkEMsDEemMs-fn257ICA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_BXSB4csEEemMs-fn257ICA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_BXSB4ssEEemMs-fn257ICA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_B1GmUMsEEemMs-fn257ICA" name="" source="_fLWkEMsDEemMs-fn257ICA" target="_hfCd8MsDEemMs-fn257ICA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_B1GmUcsEEemMs-fn257ICA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_B1GmUssEEemMs-fn257ICA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_CihtAMsEEemMs-fn257ICA" name="" source="_hfCd8MsDEemMs-fn257ICA" target="_kn7hgMsDEemMs-fn257ICA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_CihtAcsEEemMs-fn257ICA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_CihtAssEEemMs-fn257ICA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_DA1ZoMsEEemMs-fn257ICA" name="" source="_kn7hgMsDEemMs-fn257ICA" target="_lq1wAMsDEemMs-fn257ICA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_DA1ZocsEEemMs-fn257ICA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_DA1ZossEEemMs-fn257ICA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_Dd_2wMsEEemMs-fn257ICA" name="" source="_lq1wAMsDEemMs-fn257ICA" target="_ny2lYMsDEemMs-fn257ICA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_Dd_2wcsEEemMs-fn257ICA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_Dd_2wssEEemMs-fn257ICA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_EEvGoMsEEemMs-fn257ICA" name="" source="_ny2lYMsDEemMs-fn257ICA" target="_pOD_IMsDEemMs-fn257ICA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_EEvGocsEEemMs-fn257ICA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_EEvGossEEemMs-fn257ICA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_EgcLMMsEEemMs-fn257ICA" name="" source="_pOD_IMsDEemMs-fn257ICA" target="_qfSWcMsDEemMs-fn257ICA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_EgcLMcsEEemMs-fn257ICA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_EgcLMssEEemMs-fn257ICA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_E6-LEMsEEemMs-fn257ICA" name="" source="_qfSWcMsDEemMs-fn257ICA" target="_sFAXEMsDEemMs-fn257ICA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_E6-LEcsEEemMs-fn257ICA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_E6-LEssEEemMs-fn257ICA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_Fdd0IMsEEemMs-fn257ICA" name="" source="_sFAXEMsDEemMs-fn257ICA" target="_vLHzcMsDEemMs-fn257ICA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_Fdd0IcsEEemMs-fn257ICA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_Fdd0IssEEemMs-fn257ICA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_F367gMsEEemMs-fn257ICA" name="" source="_vLHzcMsDEemMs-fn257ICA" target="_w5pKwMsDEemMs-fn257ICA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_F367gcsEEemMs-fn257ICA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_F367gssEEemMs-fn257ICA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_Gj9iIMsEEemMs-fn257ICA" name="" source="_w5pKwMsDEemMs-fn257ICA" target="_-cZlIMsDEemMs-fn257ICA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_Gj9iIcsEEemMs-fn257ICA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_Gj9iIssEEemMs-fn257ICA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_qT_lEMsGEemMs-fn257ICA" name="" source="_mwkhoMsGEemMs-fn257ICA" target="_VsMiAMsDEemMs-fn257ICA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_qT_lEcsGEemMs-fn257ICA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_qT_lEssGEemMs-fn257ICA"/>
+    </edge>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_SbrMcMsDEemMs-fn257ICA" name="我方潜艇&amp;我方潜艇" node="_VsMiAMsDEemMs-fn257ICA _ZrDkQMsDEemMs-fn257ICA _cicBEMsDEemMs-fn257ICA _fLWkEMsDEemMs-fn257ICA _hfCd8MsDEemMs-fn257ICA _kn7hgMsDEemMs-fn257ICA _lq1wAMsDEemMs-fn257ICA _ny2lYMsDEemMs-fn257ICA _pOD_IMsDEemMs-fn257ICA _qfSWcMsDEemMs-fn257ICA _sFAXEMsDEemMs-fn257ICA _vLHzcMsDEemMs-fn257ICA _w5pKwMsDEemMs-fn257ICA _-cZlIMsDEemMs-fn257ICA">
+      <eAnnotations xmi:id="_1MUg4MsDEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_1MUg4csDEemMs-fn257ICA" key="86edbb03-db7f-45a7-a354-dd47179e5ef7cb26f1d2-48b5-49a2-97e3-c75e7abf4d53-AVView.av1#33d92540-bf1c-41e7-9471-7f683946967c"/>
+      </eAnnotations>
+    </group>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_jyb8kMsGEemMs-fn257ICA" name="编队体系" node="_U_5csMsDEemMs-fn257ICA _mwkhoMsGEemMs-fn257ICA"/>
+    <node xmi:type="uml:InitialNode" xmi:id="_U_5csMsDEemMs-fn257ICA" name="InitialNode1" inPartition="_jyb8kMsGEemMs-fn257ICA" outgoing="__kiR4MsDEemMs-fn257ICA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_VsMiAMsDEemMs-fn257ICA" name="接受体系支持信息" inPartition="_SbrMcMsDEemMs-fn257ICA" outgoing="_AHz-EMsEEemMs-fn257ICA" incoming="_qT_lEMsGEemMs-fn257ICA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_ZrDkQMsDEemMs-fn257ICA" name="测量水文要素" inPartition="_SbrMcMsDEemMs-fn257ICA" outgoing="_Arc2oMsEEemMs-fn257ICA" incoming="_AHz-EMsEEemMs-fn257ICA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_cicBEMsDEemMs-fn257ICA" name="确定小噪音航速" inPartition="_SbrMcMsDEemMs-fn257ICA" outgoing="_BXSB4MsEEemMs-fn257ICA" incoming="_Arc2oMsEEemMs-fn257ICA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_fLWkEMsDEemMs-fn257ICA" name="确定搜索深度" inPartition="_SbrMcMsDEemMs-fn257ICA" outgoing="_B1GmUMsEEemMs-fn257ICA" incoming="_BXSB4MsEEemMs-fn257ICA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_hfCd8MsDEemMs-fn257ICA" name="指定搜索方案" inPartition="_SbrMcMsDEemMs-fn257ICA" outgoing="_CihtAMsEEemMs-fn257ICA" incoming="_B1GmUMsEEemMs-fn257ICA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_kn7hgMsDEemMs-fn257ICA" name="搜索" inPartition="_SbrMcMsDEemMs-fn257ICA" outgoing="_DA1ZoMsEEemMs-fn257ICA" incoming="_CihtAMsEEemMs-fn257ICA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_lq1wAMsDEemMs-fn257ICA" name="跟踪目标" inPartition="_SbrMcMsDEemMs-fn257ICA" outgoing="_Dd_2wMsEEemMs-fn257ICA" incoming="_DA1ZoMsEEemMs-fn257ICA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_ny2lYMsDEemMs-fn257ICA" name="定位目标" inPartition="_SbrMcMsDEemMs-fn257ICA" outgoing="_EEvGoMsEEemMs-fn257ICA" incoming="_Dd_2wMsEEemMs-fn257ICA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_pOD_IMsDEemMs-fn257ICA" name="识别目标" inPartition="_SbrMcMsDEemMs-fn257ICA" outgoing="_EgcLMMsEEemMs-fn257ICA" incoming="_EEvGoMsEEemMs-fn257ICA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_qfSWcMsDEemMs-fn257ICA" name="制定作战方案" inPartition="_SbrMcMsDEemMs-fn257ICA" outgoing="_E6-LEMsEEemMs-fn257ICA" incoming="_EgcLMMsEEemMs-fn257ICA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_sFAXEMsDEemMs-fn257ICA" name="进行鱼功决策" inPartition="_SbrMcMsDEemMs-fn257ICA" outgoing="_Fdd0IMsEEemMs-fn257ICA" incoming="_E6-LEMsEEemMs-fn257ICA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_vLHzcMsDEemMs-fn257ICA" name="组织武器通道" inPartition="_SbrMcMsDEemMs-fn257ICA" outgoing="_F367gMsEEemMs-fn257ICA" incoming="_Fdd0IMsEEemMs-fn257ICA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_w5pKwMsDEemMs-fn257ICA" name="警戒" inPartition="_SbrMcMsDEemMs-fn257ICA" outgoing="_Gj9iIMsEEemMs-fn257ICA" incoming="_F367gMsEEemMs-fn257ICA"/>
+    <node xmi:type="uml:ActivityFinalNode" xmi:id="_-cZlIMsDEemMs-fn257ICA" name="ActivityFinalNode1" inPartition="_SbrMcMsDEemMs-fn257ICA" incoming="_Gj9iIMsEEemMs-fn257ICA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_mwkhoMsGEemMs-fn257ICA" name="威胁探测" inPartition="_jyb8kMsGEemMs-fn257ICA" outgoing="_qT_lEMsGEemMs-fn257ICA" incoming="__kiR4MsDEemMs-fn257ICA"/>
+  </packagedElement>
+</uml:Model>

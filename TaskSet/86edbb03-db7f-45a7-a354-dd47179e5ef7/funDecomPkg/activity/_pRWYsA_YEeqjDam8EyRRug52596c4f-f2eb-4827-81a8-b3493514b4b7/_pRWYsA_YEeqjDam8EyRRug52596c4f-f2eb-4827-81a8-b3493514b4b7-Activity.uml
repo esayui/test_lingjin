@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_KJ2GkBWpEeqzq4bHGkSTeA" name="model">
+  <packagedElement xmi:type="uml:Activity" xmi:id="_KJ2GkRWpEeqzq4bHGkSTeA" name="综合反潜--活动图Rhapsody导入--activity_0" group="_TaBRcBWpEeqzq4bHGkSTeA" node="GUID+996469b3-d8db-4768-a230-a9db764d08d7 GUID+f49a3004-37f2-4a6c-a069-e04680c77913 GUID+d3323004-c22f-4669-8c2b-8c245b9dbd2f GUID+a5ac6e9d-8c2c-490e-9ba0-51867374dca8 GUID+dae25bc3-311b-4e9f-a216-ae9f1e7c488b GUID+aeba1eff-d83b-470a-bc5a-04f77ffd32c8 GUID+c49e90b6-1707-416f-a48c-b7759a0929fd GUID+7397a35b-14d8-4db8-a628-84fbdac9dad7 _VJ5qERUBEeq59bHwJ91fYA">
+    <ownedBehavior xmi:type="uml:Activity" xmi:id="GUID+f925da26-98d1-4cc1-8dad-89f64305c5e5" name="activity_0"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="GUID+da2fdbb0-d65f-4556-a202-a017db5a57f1" name="0" source="GUID+f49a3004-37f2-4a6c-a069-e04680c77913" target="GUID+d3323004-c22f-4669-8c2b-8c245b9dbd2f"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="GUID+d29807e1-3d48-4d39-91e8-cf1306f836ad" name="1" source="GUID+d3323004-c22f-4669-8c2b-8c245b9dbd2f" target="GUID+a5ac6e9d-8c2c-490e-9ba0-51867374dca8"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="GUID+acd9b975-3863-4fc5-9c84-da7bd3ac2230" name="2" source="_VJ5qERUBEeq59bHwJ91fYA" target="GUID+dae25bc3-311b-4e9f-a216-ae9f1e7c488b"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="GUID+6b38375a-236b-4c7e-a849-bbd8bdcb93fe" name="3" source="GUID+996469b3-d8db-4768-a230-a9db764d08d7" target="GUID+f49a3004-37f2-4a6c-a069-e04680c77913"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="GUID+c89daa94-77cc-486b-ad63-74d38aafc749" name="4" source="GUID+a5ac6e9d-8c2c-490e-9ba0-51867374dca8" target="GUID+f49a3004-37f2-4a6c-a069-e04680c77913"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="GUID+f4295584-ce92-4676-9e4a-f30357f8b241" name="5" source="GUID+dae25bc3-311b-4e9f-a216-ae9f1e7c488b" target="GUID+aeba1eff-d83b-470a-bc5a-04f77ffd32c8"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="GUID+008fd54a-af6e-48c1-8914-4e185c6fa49f" name="6" source="GUID+aeba1eff-d83b-470a-bc5a-04f77ffd32c8" target="GUID+c49e90b6-1707-416f-a48c-b7759a0929fd"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="GUID+e7eeb5f2-b2d6-4e8b-8535-a2f67c2d714f" name="7" source="GUID+c49e90b6-1707-416f-a48c-b7759a0929fd" target="GUID+dae25bc3-311b-4e9f-a216-ae9f1e7c488b"/>
+    <edge xmi:type="uml:ControlFlow" xmi:id="GUID+5611478f-077e-4bb8-a772-15ca605b9366" name="8" source="GUID+c49e90b6-1707-416f-a48c-b7759a0929fd" target="GUID+7397a35b-14d8-4db8-a628-84fbdac9dad7"/>
+    <group xmi:type="uml:ExpansionRegion" xmi:id="_TaBRcBWpEeqzq4bHGkSTeA" name="ExpansionRegion1"/>
+    <node xmi:type="uml:ForkNode" xmi:id="GUID+996469b3-d8db-4768-a230-a9db764d08d7" name="fork_9" outgoing="GUID+6b38375a-236b-4c7e-a849-bbd8bdcb93fe"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="GUID+f49a3004-37f2-4a6c-a069-e04680c77913" name="action_6" outgoing="GUID+da2fdbb0-d65f-4556-a202-a017db5a57f1" incoming="GUID+6b38375a-236b-4c7e-a849-bbd8bdcb93fe GUID+c89daa94-77cc-486b-ad63-74d38aafc749"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="GUID+d3323004-c22f-4669-8c2b-8c245b9dbd2f" name="action_7" outgoing="GUID+d29807e1-3d48-4d39-91e8-cf1306f836ad" incoming="GUID+da2fdbb0-d65f-4556-a202-a017db5a57f1"/>
+    <node xmi:type="uml:DecisionNode" xmi:id="GUID+a5ac6e9d-8c2c-490e-9ba0-51867374dca8" name="¹¹Ôì¹æÔò" outgoing="GUID+c89daa94-77cc-486b-ad63-74d38aafc749" incoming="GUID+d29807e1-3d48-4d39-91e8-cf1306f836ad"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="GUID+dae25bc3-311b-4e9f-a216-ae9f1e7c488b" name="action_8" outgoing="GUID+f4295584-ce92-4676-9e4a-f30357f8b241" incoming="GUID+acd9b975-3863-4fc5-9c84-da7bd3ac2230 GUID+e7eeb5f2-b2d6-4e8b-8535-a2f67c2d714f"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="GUID+aeba1eff-d83b-470a-bc5a-04f77ffd32c8" name="action_9" outgoing="GUID+008fd54a-af6e-48c1-8914-4e185c6fa49f" incoming="GUID+f4295584-ce92-4676-9e4a-f30357f8b241"/>
+    <node xmi:type="uml:DecisionNode" xmi:id="GUID+c49e90b6-1707-416f-a48c-b7759a0929fd" name="·¢ËÍ×´Ì¬" outgoing="GUID+e7eeb5f2-b2d6-4e8b-8535-a2f67c2d714f GUID+5611478f-077e-4bb8-a772-15ca605b9366" incoming="GUID+008fd54a-af6e-48c1-8914-4e185c6fa49f"/>
+    <node xmi:type="uml:ActivityFinalNode" xmi:id="GUID+7397a35b-14d8-4db8-a628-84fbdac9dad7" name="activityfinal_11" incoming="GUID+5611478f-077e-4bb8-a772-15ca605b9366"/>
+    <node xmi:type="uml:InitialNode" xmi:id="_VJ5qERUBEeq59bHwJ91fYA" outgoing="GUID+acd9b975-3863-4fc5-9c84-da7bd3ac2230">
+      <name xsi:nil="true"/>
+    </node>
+  </packagedElement>
+</uml:Model>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_LbEX0MsAEemMs-fn257ICA" name="model">
+  <packagedElement xmi:type="uml:Interaction" xmi:id="_LbEX0csAEemMs-fn257ICA" name="Interaction1">
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0bWGMsGEemMs-fn257ICA" covered="_P0RlAMsGEemMs-fn257ICA" message="_P0bWGssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0bWGcsGEemMs-fn257ICA" covered="_P0RlDMsGEemMs-fn257ICA" message="_P0bWGssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0bWJMsGEemMs-fn257ICA" covered="_P0RlDMsGEemMs-fn257ICA" message="_P0bWJssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0bWJcsGEemMs-fn257ICA" covered="_P0RlGMsGEemMs-fn257ICA" message="_P0bWJssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kf9MsGEemMs-fn257ICA" covered="_P0RlGMsGEemMs-fn257ICA" message="_P0kf9ssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kf9csGEemMs-fn257ICA" covered="_P0RlDMsGEemMs-fn257ICA" message="_P0kf9ssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgAMsGEemMs-fn257ICA" covered="_P0RlDMsGEemMs-fn257ICA" message="_P0kgAssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgAcsGEemMs-fn257ICA" covered="_P0RlAMsGEemMs-fn257ICA" message="_P0kgAssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgDMsGEemMs-fn257ICA" covered="_P0RlAMsGEemMs-fn257ICA" message="_P0kgDssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgDcsGEemMs-fn257ICA" covered="_P0RlAMsGEemMs-fn257ICA" message="_P0kgDssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgGMsGEemMs-fn257ICA" covered="_P0RlAMsGEemMs-fn257ICA" message="_P0kgGssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgGcsGEemMs-fn257ICA" covered="_P0RlDMsGEemMs-fn257ICA" message="_P0kgGssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgJMsGEemMs-fn257ICA" covered="_P0RlDMsGEemMs-fn257ICA" message="_P0kgJssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgJcsGEemMs-fn257ICA" covered="_P0RlGMsGEemMs-fn257ICA" message="_P0kgJssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgMMsGEemMs-fn257ICA" covered="_P0RlGMsGEemMs-fn257ICA" message="_P0kgMssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgMcsGEemMs-fn257ICA" covered="_P0RlDMsGEemMs-fn257ICA" message="_P0kgMssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgPMsGEemMs-fn257ICA" covered="_P0RlDMsGEemMs-fn257ICA" message="_P0kgPssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgPcsGEemMs-fn257ICA" covered="_P0RlAMsGEemMs-fn257ICA" message="_P0kgPssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgSMsGEemMs-fn257ICA" covered="_P0RlAMsGEemMs-fn257ICA" message="_P0kgSssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgScsGEemMs-fn257ICA" covered="_P0RlAMsGEemMs-fn257ICA" message="_P0kgSssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgVMsGEemMs-fn257ICA" covered="_P0RlAMsGEemMs-fn257ICA" message="_P0kgVssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgVcsGEemMs-fn257ICA" covered="_P0bWAMsGEemMs-fn257ICA" message="_P0kgVssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgYMsGEemMs-fn257ICA" covered="_P0RlAMsGEemMs-fn257ICA" message="_P0kgYssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgYcsGEemMs-fn257ICA" covered="_P0bWAMsGEemMs-fn257ICA" message="_P0kgYssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgbMsGEemMs-fn257ICA" covered="_P0bWAMsGEemMs-fn257ICA" message="_P0kgbssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgbcsGEemMs-fn257ICA" covered="_P0RlGMsGEemMs-fn257ICA" message="_P0kgbssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgeMsGEemMs-fn257ICA" covered="_P0RlGMsGEemMs-fn257ICA" message="_P0kgessGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgecsGEemMs-fn257ICA" covered="_P0bWAMsGEemMs-fn257ICA" message="_P0kgessGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kghMsGEemMs-fn257ICA" covered="_P0bWAMsGEemMs-fn257ICA" message="_P0kghssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kghcsGEemMs-fn257ICA" covered="_P0RlAMsGEemMs-fn257ICA" message="_P0kghssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgkMsGEemMs-fn257ICA" covered="_P0bWDMsGEemMs-fn257ICA" message="_P0kgkssGEemMs-fn257ICA"/>
+    <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P0kgkcsGEemMs-fn257ICA" covered="_P0RlAMsGEemMs-fn257ICA" message="_P0kgkssGEemMs-fn257ICA"/>
+    <lifeline xmi:id="_P0RlAMsGEemMs-fn257ICA" name="指挥控制系统" coveredBy="_P0bWGMsGEemMs-fn257ICA _P0kgAcsGEemMs-fn257ICA _P0kgDMsGEemMs-fn257ICA _P0kgDcsGEemMs-fn257ICA _P0kgGMsGEemMs-fn257ICA _P0kgPcsGEemMs-fn257ICA _P0kgSMsGEemMs-fn257ICA _P0kgScsGEemMs-fn257ICA _P0kgVMsGEemMs-fn257ICA _P0kgYMsGEemMs-fn257ICA _P0kghcsGEemMs-fn257ICA _P0kgkcsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0RlAcsGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0RlAssGEemMs-fn257ICA" key="GeneralDesign/requirementPkg/sequence/3ba1b672-932c-4c11-9c72-497392a20ff8df57e865-3f47-4f1a-9b29-9a7f9ded448b-Sequence.uml#_wMI6oMr6EemMs-fn257ICA"/>
+      </eAnnotations>
+    </lifeline>
+    <lifeline xmi:id="_P0RlDMsGEemMs-fn257ICA" name="传感器" coveredBy="_P0bWGcsGEemMs-fn257ICA _P0bWJMsGEemMs-fn257ICA _P0kf9csGEemMs-fn257ICA _P0kgAMsGEemMs-fn257ICA _P0kgGcsGEemMs-fn257ICA _P0kgJMsGEemMs-fn257ICA _P0kgMcsGEemMs-fn257ICA _P0kgPMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0RlDcsGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0RlDssGEemMs-fn257ICA" key="GeneralDesign/requirementPkg/sequence/3ba1b672-932c-4c11-9c72-497392a20ff8df57e865-3f47-4f1a-9b29-9a7f9ded448b-Sequence.uml#_xZAWYMr6EemMs-fn257ICA"/>
+      </eAnnotations>
+    </lifeline>
+    <lifeline xmi:id="_P0RlGMsGEemMs-fn257ICA" name="作战对象" coveredBy="_P0bWJcsGEemMs-fn257ICA _P0kf9MsGEemMs-fn257ICA _P0kgJcsGEemMs-fn257ICA _P0kgMMsGEemMs-fn257ICA _P0kgbcsGEemMs-fn257ICA _P0kgeMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0RlGcsGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0RlGssGEemMs-fn257ICA" key="GeneralDesign/requirementPkg/sequence/3ba1b672-932c-4c11-9c72-497392a20ff8df57e865-3f47-4f1a-9b29-9a7f9ded448b-Sequence.uml#_JrcmkMr7EemMs-fn257ICA"/>
+      </eAnnotations>
+    </lifeline>
+    <lifeline xmi:id="_P0bWAMsGEemMs-fn257ICA" name="交战武器系统" coveredBy="_P0kgVcsGEemMs-fn257ICA _P0kgYcsGEemMs-fn257ICA _P0kgbMsGEemMs-fn257ICA _P0kgecsGEemMs-fn257ICA _P0kghMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0bWAcsGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0bWAssGEemMs-fn257ICA" key="GeneralDesign/requirementPkg/sequence/3ba1b672-932c-4c11-9c72-497392a20ff8df57e865-3f47-4f1a-9b29-9a7f9ded448b-Sequence.uml#_zR70oMr_EemMs-fn257ICA"/>
+      </eAnnotations>
+    </lifeline>
+    <lifeline xmi:id="_P0bWDMsGEemMs-fn257ICA" name="编队体系" coveredBy="_P0kgkMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0bWDcsGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0bWDssGEemMs-fn257ICA" key="GeneralDesign/requirementPkg/sequence/3ba1b672-932c-4c11-9c72-497392a20ff8df57e865-3f47-4f1a-9b29-9a7f9ded448b-Sequence.uml#_6I5dsMsFEemMs-fn257ICA"/>
+      </eAnnotations>
+    </lifeline>
+    <message xmi:id="_P0bWGssGEemMs-fn257ICA" receiveEvent="_P0bWGcsGEemMs-fn257ICA" sendEvent="_P0bWGMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0bWG8sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0bWHMsGEemMs-fn257ICA" key="_eOoWwMr7EemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_P0bWJssGEemMs-fn257ICA" receiveEvent="_P0bWJcsGEemMs-fn257ICA" sendEvent="_P0bWJMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0bWJ8sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0bWKMsGEemMs-fn257ICA" key="_hb_qoMr7EemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_P0kf9ssGEemMs-fn257ICA" receiveEvent="_P0kf9csGEemMs-fn257ICA" sendEvent="_P0kf9MsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0kf98sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0kf-MsGEemMs-fn257ICA" key="_j_jzkMr7EemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_P0kgAssGEemMs-fn257ICA" receiveEvent="_P0kgAcsGEemMs-fn257ICA" sendEvent="_P0kgAMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0kgA8sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0kgBMsGEemMs-fn257ICA" key="_rJmYYMr7EemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_P0kgDssGEemMs-fn257ICA" receiveEvent="_P0kgDcsGEemMs-fn257ICA" sendEvent="_P0kgDMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0kgD8sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0kgEMsGEemMs-fn257ICA" key="_v8ITQMr7EemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_P0kgGssGEemMs-fn257ICA" receiveEvent="_P0kgGcsGEemMs-fn257ICA" sendEvent="_P0kgGMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0kgG8sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0kgHMsGEemMs-fn257ICA" key="_iyhb4Mr_EemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_P0kgJssGEemMs-fn257ICA" receiveEvent="_P0kgJcsGEemMs-fn257ICA" sendEvent="_P0kgJMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0kgJ8sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0kgKMsGEemMs-fn257ICA" key="_mB-acMr_EemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_P0kgMssGEemMs-fn257ICA" receiveEvent="_P0kgMcsGEemMs-fn257ICA" sendEvent="_P0kgMMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0kgM8sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0kgNMsGEemMs-fn257ICA" key="_qs__IMr_EemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_P0kgPssGEemMs-fn257ICA" receiveEvent="_P0kgPcsGEemMs-fn257ICA" sendEvent="_P0kgPMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0kgP8sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0kgQMsGEemMs-fn257ICA" key="_sZXaUMr_EemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_P0kgSssGEemMs-fn257ICA" receiveEvent="_P0kgScsGEemMs-fn257ICA" sendEvent="_P0kgSMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0kgS8sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0kgTMsGEemMs-fn257ICA" key="_xBfcAMr_EemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_P0kgVssGEemMs-fn257ICA" receiveEvent="_P0kgVcsGEemMs-fn257ICA" sendEvent="_P0kgVMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0kgV8sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0kgWMsGEemMs-fn257ICA" key="_1FyX4Mr_EemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_P0kgYssGEemMs-fn257ICA" receiveEvent="_P0kgYcsGEemMs-fn257ICA" sendEvent="_P0kgYMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0kgY8sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0kgZMsGEemMs-fn257ICA" key="_3qHV0Mr_EemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_P0kgbssGEemMs-fn257ICA" receiveEvent="_P0kgbcsGEemMs-fn257ICA" sendEvent="_P0kgbMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0kgb8sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0kgcMsGEemMs-fn257ICA" key="_7iANYMr_EemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_P0kgessGEemMs-fn257ICA" receiveEvent="_P0kgecsGEemMs-fn257ICA" sendEvent="_P0kgeMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0kge8sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0kgfMsGEemMs-fn257ICA" key="_-vqcMMr_EemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_P0kghssGEemMs-fn257ICA" receiveEvent="_P0kghcsGEemMs-fn257ICA" sendEvent="_P0kghMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0kgh8sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0kgiMsGEemMs-fn257ICA" key="_BAcMAMsAEemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+    <message xmi:id="_P0kgkssGEemMs-fn257ICA" receiveEvent="_P0kgkcsGEemMs-fn257ICA" sendEvent="_P0kgkMsGEemMs-fn257ICA">
+      <eAnnotations xmi:id="_P0kgk8sGEemMs-fn257ICA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_P0kglMsGEemMs-fn257ICA" key="_G5FLoMsGEemMs-fn257ICA"/>
+      </eAnnotations>
+    </message>
+  </packagedElement>
+</uml:Model>

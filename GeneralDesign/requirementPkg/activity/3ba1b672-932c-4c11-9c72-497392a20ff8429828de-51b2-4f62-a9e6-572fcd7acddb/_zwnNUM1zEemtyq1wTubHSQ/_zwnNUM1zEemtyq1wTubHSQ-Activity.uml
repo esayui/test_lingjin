@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_4vWoMU4oEeqvfuOnUswY8w" name="model">
+  <packagedElement xmi:type="uml:Activity" xmi:id="_4vcHwE4oEeqvfuOnUswY8w" name="警戒探测--活动图" group="_4zLYQE4oEeqvfuOnUswY8w" node="_58qI0E4oEeqvfuOnUswY8w">
+    <group xmi:type="uml:ActivityPartition" xmi:id="_4zLYQE4oEeqvfuOnUswY8w" name="作战系统&amp;我方战舰" node="_58qI0E4oEeqvfuOnUswY8w">
+      <eAnnotations xmi:id="_4zLYQU4oEeqvfuOnUswY8w" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <details xmi:id="_4zLYQk4oEeqvfuOnUswY8w" key="3ba1b672-932c-4c11-9c72-497392a20ff891aaf68f-766c-4ae1-8ace-6a72f16038f0-AVView.av1#6a1bc949-728e-4801-92f5-df4a839298df"/>
+      </eAnnotations>
+    </group>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_58qI0E4oEeqvfuOnUswY8w" name="1node" inPartition="_4zLYQE4oEeqvfuOnUswY8w">
+      <ownedComment xmi:id="_Y9M0cU5EEeqIhcyq6mQ-Iw">
+        <body>&lt;?xml version=&quot;1.0&quot; encoding=&quot;GBK&quot; standalone=&quot;no&quot;?>&#xD;
+&lt;CapacitySystem>&#xD;
+&lt;Capacity>&#xD;
+&lt;ID>a4786aed-3b04-4173-a4e5-eb6692568949&lt;/ID>&#xD;
+&lt;Name>识别目标能力&lt;/Name>&#xD;
+&lt;Type>探测能力&lt;/Type>&#xD;
+&lt;DataType>&#xD;
+&lt;Complex>&#xD;
+&lt;StructName>int&lt;/StructName>&#xD;
+&lt;Simple>&#xD;
+&lt;SimpleType>int&lt;/SimpleType>&#xD;
+&lt;Id>0b0c5323-592f-431d-8353-631bdc22fe5d&lt;/Id>&#xD;
+&lt;/Simple>&#xD;
+&lt;/Complex>&#xD;
+&lt;/DataType>&#xD;
+&lt;UnderCondition/>&#xD;
+&lt;RequiredCapacity/>&#xD;
+&lt;CurrentCapacity/>&#xD;
+&lt;GapAnalysis/>&#xD;
+&lt;CustomValue/>&#xD;
+&lt;CustomDesc/>&#xD;
+&lt;/Capacity>&#xD;
+&lt;Capacity>&#xD;
+&lt;ID>3adfea71-f468-4cae-8c15-31856b7eb25f&lt;/ID>&#xD;
+&lt;Name>航迹管理能力&lt;/Name>&#xD;
+&lt;Type>探测能力&lt;/Type>&#xD;
+&lt;DataType>&#xD;
+&lt;Complex>&#xD;
+&lt;StructName>int&lt;/StructName>&#xD;
+&lt;Simple>&#xD;
+&lt;SimpleType>int&lt;/SimpleType>&#xD;
+&lt;Id>98dbeb47-75e9-45e3-b7a0-03de0eaeb8d0&lt;/Id>&#xD;
+&lt;/Simple>&#xD;
+&lt;/Complex>&#xD;
+&lt;/DataType>&#xD;
+&lt;UnderCondition/>&#xD;
+&lt;RequiredCapacity/>&#xD;
+&lt;CurrentCapacity/>&#xD;
+&lt;GapAnalysis/>&#xD;
+&lt;CustomValue/>&#xD;
+&lt;CustomDesc/>&#xD;
+&lt;/Capacity>&#xD;
+&lt;/CapacitySystem>&#xD;
+</body>
+      </ownedComment>
+    </node>
+  </packagedElement>
+</uml:Model>

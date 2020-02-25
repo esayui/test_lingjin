@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:av1="http://org.seri.mdt/2011/av1" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_ME2Q0BviEeqDIouexv5c9A" type="Av1viewpoint" name="54775583-fe33-4ca1-8b7e-1d0711925067f0f8fe9a-bc4f-4e2e-ab93-96921b25fd8f-AVView.av1_diagram" measurementUnit="Pixel">
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_ME2Q0RviEeqDIouexv5c9A"/>
+  <element xmi:type="av1:av1view" href="54775583-fe33-4ca1-8b7e-1d0711925067f0f8fe9a-bc4f-4e2e-ab93-96921b25fd8f-AVView.av1#/"/>
+</notation:Diagram>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:org.seri.mdt.design="uicomp.design.mdt.seri.org" xmi:id="_4TDFQVOPEeqizfLnROXqTg" type="Uicomp" name="9db140df-609a-40d2-8053-579eba96049344503b78-c2e1-4e19-9251-6750a84a46fa-UI-Deploy.uicomp_diagram" measurementUnit="Pixel">
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_4TDFQlOPEeqizfLnROXqTg"/>
+  <element xmi:type="org.seri.mdt.design:BasePanel" href="file:/E:/LJ/验收资源/2顶层模型库-水面/顶层模型库-水面/TaskSet/3ba1b672-932c-4c11-9c72-497392a20ff8/uiPackage//9db140df-609a-40d2-8053-579eba96049344503b78-c2e1-4e19-9251-6750a84a46fa-UI-Deploy.uicomp#/"/>
+</notation:Diagram>

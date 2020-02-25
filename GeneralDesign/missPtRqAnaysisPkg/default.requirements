@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<requirements:Project xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:requirements="http://org.seri.mdt/2011/requirements">
+  <itsMissions itsMissionpoints="//@itsCapacity.0" Id="056c78c5-46fc-4557-8f9b-56c85f46bdce" Title="水面作战系统"/>
+  <itsCapacity xsi:type="requirements:Missionpoint" Name="水面作战系统任务" Id="ca861f18-d5c5-4f1b-b7ac-958f80a04b9a"/>
+  <itstasks Id="3ba1b672-932c-4c11-9c72-497392a20ff8" Title="对空自防御" itsTargetpoint="//@itsCapacity.0"/>
+  <itstasks Id="86edbb03-db7f-45a7-a354-dd47179e5ef7" Title="综合反潜" itsTargetpoint="//@itsCapacity.0"/>
+</requirements:Project>

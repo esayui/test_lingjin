@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:Blocks="http://www.eclipse.org/papyrus/0.7.0/SysML/Blocks" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xsi:schemaLocation="http://www.eclipse.org/papyrus/0.7.0/SysML/Blocks http://www.eclipse.org/papyrus/0.7.0/SysML#//blocks">
+  <uml:Model xmi:id="_Xa8VoBSrEeq1UbCOhhTSQg" name="SysMLmodel">
+    <packagedElement xmi:type="uml:Class" xmi:id="_g13X8BSrEeq1UbCOhhTSQg" name="我方水面舰">
+      <ownedAttribute xmi:id="_j4PuYBSsEeq1UbCOhhTSQg" name="我方鱼雷" type="_-DaQMBSrEeq1UbCOhhTSQg" association="_j36-QBSsEeq1UbCOhhTSQg"/>
+      <ownedAttribute xmi:id="_pC4nQxSsEeq1UbCOhhTSQg" name="我方导弹" type="__7vDwBSrEeq1UbCOhhTSQg" association="_pC4nQBSsEeq1UbCOhhTSQg"/>
+      <ownedAttribute xmi:id="_L4zyYhSvEeq1UbCOhhTSQg" name="我方舰炮" type="_LBgeUBSsEeq1UbCOhhTSQg" association="_L4qBYBSvEeq1UbCOhhTSQg"/>
+      <ownedAttribute xmi:id="_ZNpskBSvEeq1UbCOhhTSQg" name="我方舰空弹" type="_NLDkwBSsEeq1UbCOhhTSQg" association="_ZNfUgBSvEeq1UbCOhhTSQg"/>
+      <ownedAttribute xmi:id="_fec8QBSvEeq1UbCOhhTSQg" name="我方干扰弹" type="_dE6ZYBSsEeq1UbCOhhTSQg" association="_feO50BSvEeq1UbCOhhTSQg"/>
+      <ownedAttribute xmi:id="_Py3-whSwEeq1UbCOhhTSQg" name="敌方潜艇" type="_y0uNYBSvEeq1UbCOhhTSQg" association="_PyrxgBSwEeq1UbCOhhTSQg"/>
+      <ownedAttribute xmi:id="_V2zQExSwEeq1UbCOhhTSQg" name="敌方战机" type="_-mo8QBSvEeq1UbCOhhTSQg" association="_V2zQEBSwEeq1UbCOhhTSQg"/>
+      <ownedAttribute xmi:id="_Z8R3sRSwEeq1UbCOhhTSQg" name="敌方导弹" type="_J-uO0BSwEeq1UbCOhhTSQg" association="_Z8EcUBSwEeq1UbCOhhTSQg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_-DaQMBSrEeq1UbCOhhTSQg" name="我方鱼雷">
+      <ownedAttribute xmi:id="_j4RjkBSsEeq1UbCOhhTSQg" name="我方水面舰" type="_g13X8BSrEeq1UbCOhhTSQg" association="_j36-QBSsEeq1UbCOhhTSQg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="__7vDwBSrEeq1UbCOhhTSQg" name="我方导弹">
+      <ownedAttribute xmi:id="_pDCYQBSsEeq1UbCOhhTSQg" name="我方水面舰" type="_g13X8BSrEeq1UbCOhhTSQg" association="_pC4nQBSsEeq1UbCOhhTSQg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_LBgeUBSsEeq1UbCOhhTSQg" name="我方舰炮">
+      <ownedAttribute xmi:id="_L4zyYxSvEeq1UbCOhhTSQg" name="我方水面舰" type="_g13X8BSrEeq1UbCOhhTSQg" association="_L4qBYBSvEeq1UbCOhhTSQg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_NLDkwBSsEeq1UbCOhhTSQg" name="我方舰空弹">
+      <ownedAttribute xmi:id="_ZNtW8BSvEeq1UbCOhhTSQg" name="我方水面舰" type="_g13X8BSrEeq1UbCOhhTSQg" association="_ZNfUgBSvEeq1UbCOhhTSQg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_dE6ZYBSsEeq1UbCOhhTSQg" name="我方干扰弹">
+      <ownedAttribute xmi:id="_fec8QRSvEeq1UbCOhhTSQg" name="我方水面舰" type="_g13X8BSrEeq1UbCOhhTSQg" association="_feO50BSvEeq1UbCOhhTSQg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_j36-QBSsEeq1UbCOhhTSQg" name="指挥" memberEnd="_j4PuYBSsEeq1UbCOhhTSQg _j4RjkBSsEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_j4EvQBSsEeq1UbCOhhTSQg" source="org.eclipse.papyrus">
+        <details xmi:id="_j4EvQRSsEeq1UbCOhhTSQg" key="nature" value="SysML_Nature"/>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_pC4nQBSsEeq1UbCOhhTSQg" name="指挥" memberEnd="_pC4nQxSsEeq1UbCOhhTSQg _pDCYQBSsEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_pC4nQRSsEeq1UbCOhhTSQg" source="org.eclipse.papyrus">
+        <details xmi:id="_pC4nQhSsEeq1UbCOhhTSQg" key="nature" value="SysML_Nature"/>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_L4qBYBSvEeq1UbCOhhTSQg" name="指挥" memberEnd="_L4zyYhSvEeq1UbCOhhTSQg _L4zyYxSvEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_L4zyYBSvEeq1UbCOhhTSQg" source="org.eclipse.papyrus">
+        <details xmi:id="_L4zyYRSvEeq1UbCOhhTSQg" key="nature" value="SysML_Nature"/>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_ZNfUgBSvEeq1UbCOhhTSQg" name="指挥" memberEnd="_ZNpskBSvEeq1UbCOhhTSQg _ZNtW8BSvEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_ZNfUgRSvEeq1UbCOhhTSQg" source="org.eclipse.papyrus">
+        <details xmi:id="_ZNfUghSvEeq1UbCOhhTSQg" key="nature" value="SysML_Nature"/>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_feO50BSvEeq1UbCOhhTSQg" name="指挥" memberEnd="_fec8QBSvEeq1UbCOhhTSQg _fec8QRSvEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_feagABSvEeq1UbCOhhTSQg" source="org.eclipse.papyrus">
+        <details xmi:id="_fecVMBSvEeq1UbCOhhTSQg" key="nature" value="SysML_Nature"/>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_y0uNYBSvEeq1UbCOhhTSQg" name="敌方潜艇">
+      <ownedAttribute xmi:id="_Py3-wxSwEeq1UbCOhhTSQg" name="我方水面舰" type="_g13X8BSrEeq1UbCOhhTSQg" association="_PyrxgBSwEeq1UbCOhhTSQg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_-mo8QBSvEeq1UbCOhhTSQg" name="敌方战机">
+      <ownedAttribute xmi:id="_V2zQFBSwEeq1UbCOhhTSQg" name="我方水面舰" type="_g13X8BSrEeq1UbCOhhTSQg" association="_V2zQEBSwEeq1UbCOhhTSQg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="_J-uO0BSwEeq1UbCOhhTSQg" name="敌方导弹">
+      <ownedAttribute xmi:id="_Z8R3shSwEeq1UbCOhhTSQg" name="我方水面舰" type="_g13X8BSrEeq1UbCOhhTSQg" association="_Z8EcUBSwEeq1UbCOhhTSQg"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_PyrxgBSwEeq1UbCOhhTSQg" name="对抗" memberEnd="_Py3-whSwEeq1UbCOhhTSQg _Py3-wxSwEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_Py3-wBSwEeq1UbCOhhTSQg" source="org.eclipse.papyrus">
+        <details xmi:id="_Py3-wRSwEeq1UbCOhhTSQg" key="nature" value="SysML_Nature"/>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_V2zQEBSwEeq1UbCOhhTSQg" name="对抗" memberEnd="_V2zQExSwEeq1UbCOhhTSQg _V2zQFBSwEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_V2zQERSwEeq1UbCOhhTSQg" source="org.eclipse.papyrus">
+        <details xmi:id="_V2zQEhSwEeq1UbCOhhTSQg" key="nature" value="SysML_Nature"/>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="_Z8EcUBSwEeq1UbCOhhTSQg" name="对抗" memberEnd="_Z8R3sRSwEeq1UbCOhhTSQg _Z8R3shSwEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_Z8O0YBSwEeq1UbCOhhTSQg" source="org.eclipse.papyrus">
+        <details xmi:id="_Z8R3sBSwEeq1UbCOhhTSQg" key="nature" value="SysML_Nature"/>
+      </eAnnotations>
+    </packagedElement>
+    <profileApplication xmi:id="_XdLKQBSrEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_XdLKQRSrEeq1UbCOhhTSQg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/0.7.0/SysML#/"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://SysML_PROFILES/SysML.profile.uml#_TZ_nULU5EduiKqCzJMWbGw"/>
+    </profileApplication>
+    <profileApplication xmi:id="_XfpPcBSrEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_XfpPcRSrEeq1UbCOhhTSQg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/0.7.0/SysML#//modelelements"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://SysML_PROFILES/SysML.profile.uml#_Gx8MgLX7EduFmqQsrNB9lw"/>
+    </profileApplication>
+    <profileApplication xmi:id="_XfqdkBSrEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_XfqdkRSrEeq1UbCOhhTSQg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/0.7.0/SysML#//blocks"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://SysML_PROFILES/SysML.profile.uml#_fSw28LX7EduFmqQsrNB9lw"/>
+    </profileApplication>
+    <profileApplication xmi:id="_XfqdkhSrEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_XfqdkxSrEeq1UbCOhhTSQg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/0.7.0/SysML#//portandflows"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://SysML_PROFILES/SysML.profile.uml#_rpx28LX7EduFmqQsrNB9lw"/>
+    </profileApplication>
+    <profileApplication xmi:id="_XfqdlBSrEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_XfqdlRSrEeq1UbCOhhTSQg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/0.7.0/SysML#//constraints"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://SysML_PROFILES/SysML.profile.uml#_5WYJ0LX7EduFmqQsrNB9lw"/>
+    </profileApplication>
+    <profileApplication xmi:id="_XfqdlhSrEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_XfqdlxSrEeq1UbCOhhTSQg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/0.7.0/SysML#//activities"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://SysML_PROFILES/SysML.profile.uml#_C2zXMLX8EduFmqQsrNB9lw"/>
+    </profileApplication>
+    <profileApplication xmi:id="_XfqdmBSrEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_XfqdmRSrEeq1UbCOhhTSQg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/0.7.0/SysML#//allocations"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://SysML_PROFILES/SysML.profile.uml#_NxdG4LX8EduFmqQsrNB9lw"/>
+    </profileApplication>
+    <profileApplication xmi:id="_XfqdmhSrEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_XfqdmxSrEeq1UbCOhhTSQg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/0.7.0/SysML#//requirements"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://SysML_PROFILES/SysML.profile.uml#_OOJC4LX8EduFmqQsrNB9lw"/>
+    </profileApplication>
+    <profileApplication xmi:id="_XfqdnBSrEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_XfqdnRSrEeq1UbCOhhTSQg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/0.7.0/SysML#//interactions"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://SysML_PROFILES/SysML.profile.uml#_meOioLX8EduFmqQsrNB9lw"/>
+    </profileApplication>
+    <profileApplication xmi:id="_XfqdnhSrEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_XfqdnxSrEeq1UbCOhhTSQg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/0.7.0/SysML#//statemachines"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://SysML_PROFILES/SysML.profile.uml#_nAF5kLX8EduFmqQsrNB9lw"/>
+    </profileApplication>
+    <profileApplication xmi:id="_XfqdoBSrEeq1UbCOhhTSQg">
+      <eAnnotations xmi:id="_XfqdoRSrEeq1UbCOhhTSQg" source="http://www.eclipse.org/uml2/2.0.0/UML">
+        <references xmi:type="ecore:EPackage" href="http://www.eclipse.org/papyrus/0.7.0/SysML#//usecases"/>
+      </eAnnotations>
+      <appliedProfile href="pathmap://SysML_PROFILES/SysML.profile.uml#_neZmMLX8EduFmqQsrNB9lw"/>
+    </profileApplication>
+  </uml:Model>
+  <Blocks:Block xmi:id="_g150MBSrEeq1UbCOhhTSQg" base_Class="_g13X8BSrEeq1UbCOhhTSQg"/>
+  <Blocks:Block xmi:id="_-DaQMRSrEeq1UbCOhhTSQg" base_Class="_-DaQMBSrEeq1UbCOhhTSQg"/>
+  <Blocks:Block xmi:id="__7vDwRSrEeq1UbCOhhTSQg" base_Class="__7vDwBSrEeq1UbCOhhTSQg"/>
+  <Blocks:Block xmi:id="_LBgeURSsEeq1UbCOhhTSQg" base_Class="_LBgeUBSsEeq1UbCOhhTSQg"/>
+  <Blocks:Block xmi:id="_NLDkwRSsEeq1UbCOhhTSQg" base_Class="_NLDkwBSsEeq1UbCOhhTSQg"/>
+  <Blocks:Block xmi:id="_dE7AcBSsEeq1UbCOhhTSQg" base_Class="_dE6ZYBSsEeq1UbCOhhTSQg"/>
+  <Blocks:Block xmi:id="_y0u0cBSvEeq1UbCOhhTSQg" base_Class="_y0uNYBSvEeq1UbCOhhTSQg"/>
+  <Blocks:Block xmi:id="_-mqxcBSvEeq1UbCOhhTSQg" base_Class="_-mo8QBSvEeq1UbCOhhTSQg"/>
+  <Blocks:Block xmi:id="_J-uO0RSwEeq1UbCOhhTSQg" base_Class="_J-uO0BSwEeq1UbCOhhTSQg"/>
+</xmi:XMI>

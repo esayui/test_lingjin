@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<av1:av1view xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:av1="http://org.seri.mdt/2011/av1">
+  <children xsi:type="av1:Warship" id="6a1bc949-728e-4801-92f5-df4a839298df" name="我方战舰" imagePath="images\warship.png" camp="我方" nameBAK="战舰1"/>
+  <children xsi:type="av1:Missile" id="c9fa01c5-8a81-484f-833a-bf39424db846" name="我方导弹" imagePath="images\MissileImage.png" camp="我方" nameBAK="导弹1"/>
+  <children xsi:type="av1:Missile" id="dd2f6668-b133-4574-9b86-044c36e0d1e4" name="敌方导弹" angle="270" imagePath="images\MissileImage.png" camp="敌方" nameBAK="导弹1"/>
+  <children xsi:type="av1:ArrowDashedConnection" name="发射干扰弹" source="//@children.0" target="//@children.1"/>
+  <children xsi:type="av1:ArrowDashedConnection" name="拦截" source="//@children.1" target="//@children.2"/>
+  <children xsi:type="av1:Artillery" id="21cb71ad-fcc7-4e44-9b7c-22e3e6ac790e" name="火炮1" imagePath="images\artillery.png" nameBAK="火炮1"/>
+  <children xsi:type="av1:BomerPlane" id="fe671fae-2af6-4d21-bf60-702867fdc2da" name="敌方战机" angle="180" imagePath="images\BomerPlaneImage.png" nameBAK="战斗机1"/>
+  <children xsi:type="av1:BomerPlane" id="83062e73-6857-418b-bbff-423323b092df" name="敌方战机" angle="270" imagePath="GeneralDesign/requirementPkg/ov-1/images/plane.png" nameBAK="战斗机1" materialType="战斗机" materialCountry="中国" materialModel="BN-2" seatsCount="2" mainScale="22" emptyWeight="3900" bomPlaneLong="12" airfoilLong="10" flyDistance="20" landingDistance="6" bomPlaneHeight="4" flyLoadweight="5300" maxFlyweight="6000" maxSpeed="1100" maxNavigationDistance="1200" powerDevice="1台涡喷-5离心式加力喷气发动机，静推力2600千克，加力推力3380千克。" outputPower="8" combatRadius="1000" heightLimits="16" carryWeapons="机头左侧下方装两门23毫米机炮，机头右侧下方装一门37毫米机炮，备弹量为200发；机翼下可挂载2枚100kg或250kg炸弹。"/>
+  <children xsi:type="av1:BomerPlane" id="04a4a1c9-0a8b-40cd-89af-c1e18a5494be" name="故方战机" angle="270" imagePath="images\BomerPlaneImage.png" nameBAK="战斗机1"/>
+  <children xsi:type="av1:Custom" id="8b601938-31b9-4975-a213-af2473b7bfc2" name="卫星" imagePath="images\89067c2c-f484-42c5-9eac-4449ca6952af.png"/>
+  <children xsi:type="av1:DashedConnection"/>
+  <children xsi:type="av1:DashedConnection" name="侦察信息" source="//@children.9" target="//@children.0"/>
+  <children xsi:type="av1:Torpedo" id="570aea36-3b9d-4d8e-9a93-752d01ae3170" name="干扰弹" imagePath="images\torpedo.png" nameBAK="鱼雷1"/>
+  <children xsi:type="av1:ArrowDashedConnection" name="发射干扰弹" source="//@children.0" target="//@children.12"/>
+  <children xsi:type="av1:ArrowDashedConnection" source="//@children.12" target="//@children.6"/>
+  <children xsi:type="av1:ArrowDashedConnection" source="//@children.0" target="//@children.5"/>
+  <children xsi:type="av1:ArrowDashedConnection" source="//@children.5" target="//@children.2"/>
+</av1:av1view>

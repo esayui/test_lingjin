@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_DXizkA_bEeqjDam8EyRRug" name="model">
+  <packagedElement xmi:type="uml:StateMachine" xmi:id="_DXizkQ_bEeqjDam8EyRRug" name="StateMachine0">
+    <region xmi:id="_DXizkg_bEeqjDam8EyRRug" name="Region0">
+      <transition xmi:id="_hJojUA_bEeqjDam8EyRRug" name="" source="_GBJTEA_bEeqjDam8EyRRug" target="_H3uaMA_bEeqjDam8EyRRug"/>
+      <transition xmi:id="_h3AmsA_bEeqjDam8EyRRug" name="开始战斗" source="_H3uaMA_bEeqjDam8EyRRug" target="_OeiWIA_bEeqjDam8EyRRug"/>
+      <transition xmi:id="_kUG7QA_bEeqjDam8EyRRug" name="结束" source="_H3uaMA_bEeqjDam8EyRRug" target="_MfeocA_bEeqjDam8EyRRug"/>
+      <transition xmi:id="_lUYsgA_bEeqjDam8EyRRug" name="搜寻探测" source="_H3uaMA_bEeqjDam8EyRRug" target="_H3uaMA_bEeqjDam8EyRRug"/>
+      <transition xmi:id="_nAisUA_bEeqjDam8EyRRug" name="远程中跟踪" source="_H3uaMA_bEeqjDam8EyRRug" target="_H3uaMA_bEeqjDam8EyRRug"/>
+      <subvertex xmi:type="uml:Pseudostate" xmi:id="_GBJTEA_bEeqjDam8EyRRug" name=""/>
+      <subvertex xmi:type="uml:State" xmi:id="_H3uaMA_bEeqjDam8EyRRug" name="状态监控及预警探测中"/>
+      <subvertex xmi:type="uml:FinalState" xmi:id="_MfeocA_bEeqjDam8EyRRug" name=""/>
+      <subvertex xmi:type="uml:State" xmi:id="_OeiWIA_bEeqjDam8EyRRug" name="火力攻击">
+        <region xmi:id="_P9TaMA_bEeqjDam8EyRRug" name="Region0">
+          <transition xmi:id="_X7v3cA_bEeqjDam8EyRRug" name="开始火力攻击" source="_P9dLPA_bEeqjDam8EyRRug" target="_QykOQA_bEeqjDam8EyRRug"/>
+          <transition xmi:id="_bYrRUA_bEeqjDam8EyRRug" name="配置武器/执行毁伤评估" source="_QykOQA_bEeqjDam8EyRRug" target="_P9dLPA_bEeqjDam8EyRRug"/>
+          <transition xmi:id="_eTrp4A_bEeqjDam8EyRRug" name="摧毁目标" source="_QykOQA_bEeqjDam8EyRRug" target="_SX3_MA_bEeqjDam8EyRRug"/>
+          <subvertex xmi:type="uml:State" xmi:id="_P9dLPA_bEeqjDam8EyRRug" name="空闲状态"/>
+          <subvertex xmi:type="uml:State" xmi:id="_QykOQA_bEeqjDam8EyRRug" name="工作中"/>
+          <subvertex xmi:type="uml:FinalState" xmi:id="_SX3_MA_bEeqjDam8EyRRug" name=""/>
+        </region>
+      </subvertex>
+    </region>
+  </packagedElement>
+</uml:Model>

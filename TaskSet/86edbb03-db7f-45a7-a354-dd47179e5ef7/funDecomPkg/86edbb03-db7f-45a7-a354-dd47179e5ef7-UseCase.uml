@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_C818YA9eEeqpvfSfjQkXuA" name="model">
+  <packagedElement xmi:type="uml:Package" xmi:id="_C__-EA9eEeqpvfSfjQkXuA" name="综合反潜">
+    <ownedComment xmi:id="_C__-EQ9eEeqpvfSfjQkXuA">
+      <body></body>
+    </ownedComment>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_pRWYsA_YEeqjDam8EyRRug" name="综合反潜"/>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="b210334a-1bfd-4167-b358-2a2549fdd72f" name="测量水文要素 (ex)"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_okR3UA_YEeqjDam8EyRRug" name=""/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_tZpn0A_5EeqaWqk7PbMD6g" name="A__综合反潜" memberEnd="_tZpn0Q_5EeqaWqk7PbMD6g _tZpn1A_5EeqaWqk7PbMD6g">
+    <ownedEnd xmi:id="_tZpn0Q_5EeqaWqk7PbMD6g" name="" type="_okR3UA_YEeqjDam8EyRRug" association="_tZpn0A_5EeqaWqk7PbMD6g">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_tZpn0g_5EeqaWqk7PbMD6g" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_tZpn0w_5EeqaWqk7PbMD6g" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_tZpn1A_5EeqaWqk7PbMD6g" name="综合反潜" type="_pRWYsA_YEeqjDam8EyRRug" association="_tZpn0A_5EeqaWqk7PbMD6g">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_tZpn1Q_5EeqaWqk7PbMD6g" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_tZpn1g_5EeqaWqk7PbMD6g" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+</uml:Model>

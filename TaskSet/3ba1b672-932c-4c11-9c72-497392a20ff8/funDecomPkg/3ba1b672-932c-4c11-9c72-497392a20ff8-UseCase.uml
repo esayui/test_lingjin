@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_CKkK4A9eEeqpvfSfjQkXuA" name="model">
+  <packagedElement xmi:type="uml:Package" xmi:id="_CORmMA9eEeqpvfSfjQkXuA" name="对空自防御">
+    <ownedComment xmi:id="_CORmMQ9eEeqpvfSfjQkXuA">
+      <body></body>
+    </ownedComment>
+    <packagedElement xmi:type="uml:UseCase" xmi:id="_s_F1wA_YEeqjDam8EyRRug" name="对空自防御"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Actor" xmi:id="_sdngYA_YEeqjDam8EyRRug" name=""/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_pVcykA_5EeqaWqk7PbMD6g" name="A__对空自防御" memberEnd="_pVcykQ_5EeqaWqk7PbMD6g _pVcylA_5EeqaWqk7PbMD6g">
+    <ownedEnd xmi:id="_pVcykQ_5EeqaWqk7PbMD6g" name="" type="_sdngYA_YEeqjDam8EyRRug" association="_pVcykA_5EeqaWqk7PbMD6g">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_pVcykg_5EeqaWqk7PbMD6g" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_pVcykw_5EeqaWqk7PbMD6g" value="1"/>
+    </ownedEnd>
+    <ownedEnd xmi:id="_pVcylA_5EeqaWqk7PbMD6g" name="对空自防御" type="_s_F1wA_YEeqjDam8EyRRug" association="_pVcykA_5EeqaWqk7PbMD6g">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_pVcylQ_5EeqaWqk7PbMD6g" value="1"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_pVcylg_5EeqaWqk7PbMD6g" value="1"/>
+    </ownedEnd>
+  </packagedElement>
+</uml:Model>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_SrzcgVOiEeqtFMBycwZtUw" name="model">
+  <packagedElement xmi:type="uml:StateMachine" xmi:id="_S6jqMFOiEeqtFMBycwZtUw" name="StateMachine0">
+    <region xmi:id="_S62lIFOiEeqtFMBycwZtUw" name="Region0"/>
+  </packagedElement>
+</uml:Model>

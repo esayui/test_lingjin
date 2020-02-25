@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:requirements="http://org.seri.mdt/2011/requirements" xmi:id="_5TpZEcr3EemMs-fn257ICA" type="Requirements" name="default.requirements_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_KJCo4Mr4EemMs-fn257ICA" type="2002" fontName="Microsoft YaHei UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_KJCo4sr4EemMs-fn257ICA" type="5002"/>
+    <element xmi:type="requirements:Missionpoint" href="default.requirements#//@itsCapacity.0"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KJCo4cr4EemMs-fn257ICA" x="511" y="259"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_LDrFIMr4EemMs-fn257ICA" type="2003" fontName="Microsoft YaHei UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_LDrFIsr4EemMs-fn257ICA" type="5003"/>
+    <element xmi:type="requirements:Task" href="default.requirements#//@itstasks.0"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LDrFIcr4EemMs-fn257ICA" x="381" y="413"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_Oa1OMMr4EemMs-fn257ICA" type="2003" fontName="Microsoft YaHei UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Oa1OMsr4EemMs-fn257ICA" type="5003"/>
+    <element xmi:type="requirements:Task" href="default.requirements#//@itstasks.1"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Oa1OMcr4EemMs-fn257ICA" x="646" y="413"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_q8f7oRSpEeq1UbCOhhTSQg" type="2001" fontName="Microsoft YaHei UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_q8gisBSpEeq1UbCOhhTSQg" type="5001"/>
+    <element xmi:type="requirements:Mission" href="default.requirements#//@itsMissions.0"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_q8f7ohSpEeq1UbCOhhTSQg" x="511" y="70"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_5TpZEsr3EemMs-fn257ICA"/>
+  <element xmi:type="requirements:Project" href="default.requirements#/"/>
+  <edges xmi:type="notation:Connector" xmi:id="_LEHxEMr4EemMs-fn257ICA" type="4001" source="_LDrFIMr4EemMs-fn257ICA" target="_KJCo4Mr4EemMs-fn257ICA" lineColor="0">
+    <styles xmi:type="notation:FontStyle" xmi:id="_LEHxEcr4EemMs-fn257ICA" fontName="Microsoft YaHei UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_LEHxEsr4EemMs-fn257ICA" points="[0, 0, -455, -281]$[380, 234, -75, -47]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_ObA0YMr4EemMs-fn257ICA" type="4001" source="_Oa1OMMr4EemMs-fn257ICA" target="_KJCo4Mr4EemMs-fn257ICA" lineColor="0">
+    <styles xmi:type="notation:FontStyle" xmi:id="_ObA0Ycr4EemMs-fn257ICA" fontName="Microsoft YaHei UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ObA0Ysr4EemMs-fn257ICA" points="[0, 0, -455, -281]$[380, 234, -75, -47]"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_AeZ94BSqEeq1UbCOhhTSQg" type="4002" source="_q8f7oRSpEeq1UbCOhhTSQg" target="_KJCo4Mr4EemMs-fn257ICA" lineColor="0">
+    <styles xmi:type="notation:FontStyle" xmi:id="_AeZ94RSqEeq1UbCOhhTSQg" fontName="Microsoft YaHei UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_AeZ94hSqEeq1UbCOhhTSQg" points="[5, 9, 1, -139]$[5, 98, 1, -50]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_AedBMBSqEeq1UbCOhhTSQg" id="(0.47333333333333333,0.91)"/>
+  </edges>
+</notation:Diagram>

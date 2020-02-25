@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_CQudQA9eEeqpvfSfjQkXuA" name="model">
+  <packagedElement xmi:type="uml:Class" xmi:id="_RZH0MA9oEeqCEq-E7vK8TQ" clientDependency="_4ZwUsA_4EeqADMeGkU6DvQ _57M5UA_4EeqADMeGkU6DvQ _8EXlQA_4EeqADMeGkU6DvQ" name="作战系统">
+    <ownedAttribute xmi:id="_RZH0MQ9oEeqCEq-E7vK8TQ" name="DealInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_RZH0Mg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_RZH0Mw9oEeqCEq-E7vK8TQ" name="OprtInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_RZH0NA9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_RZH0NQ9oEeqCEq-E7vK8TQ" name="RelateActor">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_RZH0Ng9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_SoRu8A9oEeqCEq-E7vK8TQ" clientDependency="_-N-9IA_4EeqADMeGkU6DvQ __FB54A_4EeqADMeGkU6DvQ __pobwA_4EeqADMeGkU6DvQ _AIIVoA_5EeqADMeGkU6DvQ" name="传感器系统">
+    <ownedAttribute xmi:id="_SoRu8Q9oEeqCEq-E7vK8TQ" name="DealInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_Soa44A9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_Soa44Q9oEeqCEq-E7vK8TQ" name="OprtInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_Soa44g9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_Soa44w9oEeqCEq-E7vK8TQ" name="RelateActor">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_Soa45A9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_UF2gMA9oEeqCEq-E7vK8TQ" name="作战管理系统">
+    <ownedAttribute xmi:id="_UF2gMQ9oEeqCEq-E7vK8TQ" name="DealInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_UF2gMg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_UF2gMw9oEeqCEq-E7vK8TQ" name="OprtInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_UF2gNA9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_UF2gNQ9oEeqCEq-E7vK8TQ" name="RelateActor">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_UF2gNg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_VgAxEA9oEeqCEq-E7vK8TQ" clientDependency="_Aht6UA_5EeqADMeGkU6DvQ _A7578A_5EeqADMeGkU6DvQ _BYnGEA_5EeqADMeGkU6DvQ _B2OPIA_5EeqADMeGkU6DvQ" name="武器系统">
+    <ownedAttribute xmi:id="_VgAxEQ9oEeqCEq-E7vK8TQ" name="DealInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_VgAxEg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_VgAxEw9oEeqCEq-E7vK8TQ" name="OprtInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_VgAxFA9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_VgAxFQ9oEeqCEq-E7vK8TQ" name="RelateActor">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_VgAxFg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_WjjRsA9oEeqCEq-E7vK8TQ" name="声纳">
+    <ownedAttribute xmi:id="_WjjRsQ9oEeqCEq-E7vK8TQ" name="DealInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_WjjRsg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_WjjRsw9oEeqCEq-E7vK8TQ" name="OprtInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_WjjRtA9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_WjjRtQ9oEeqCEq-E7vK8TQ" name="RelateActor">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_WjjRtg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_XcFcMA9oEeqCEq-E7vK8TQ" name="搜索雷达">
+    <ownedAttribute xmi:id="_XcFcMQ9oEeqCEq-E7vK8TQ" name="DealInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_XcFcMg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_XcFcMw9oEeqCEq-E7vK8TQ" name="OprtInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_XcFcNA9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_XcFcNQ9oEeqCEq-E7vK8TQ" name="RelateActor">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_XcFcNg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_YiKTcA9oEeqCEq-E7vK8TQ" name="鱼雷">
+    <ownedAttribute xmi:id="_YiKTcQ9oEeqCEq-E7vK8TQ" name="DealInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_YiKTcg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_YiKTcw9oEeqCEq-E7vK8TQ" name="OprtInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_YiKTdA9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_YiKTdQ9oEeqCEq-E7vK8TQ" name="RelateActor">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_YiKTdg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_bkc_wA9oEeqCEq-E7vK8TQ" name="舰炮">
+    <ownedAttribute xmi:id="_bkc_wQ9oEeqCEq-E7vK8TQ" name="DealInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_bkc_wg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_bkc_ww9oEeqCEq-E7vK8TQ" name="OprtInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_bkc_xA9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_bkc_xQ9oEeqCEq-E7vK8TQ" name="RelateActor">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_bkc_xg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_drZeIA9oEeqCEq-E7vK8TQ" name="舰空弹">
+    <ownedAttribute xmi:id="_drZeIQ9oEeqCEq-E7vK8TQ" name="DealInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_drZeIg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_drZeIw9oEeqCEq-E7vK8TQ" name="OprtInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_drZeJA9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_drZeJQ9oEeqCEq-E7vK8TQ" name="RelateActor">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_drZeJg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_hHlRIA9oEeqCEq-E7vK8TQ" name="干扰弹">
+    <ownedAttribute xmi:id="_hHlRIQ9oEeqCEq-E7vK8TQ" name="DealInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_hHlRIg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_hHlRIw9oEeqCEq-E7vK8TQ" name="OprtInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_hHlRJA9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_hHlRJQ9oEeqCEq-E7vK8TQ" name="RelateActor">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_hHlRJg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_jH0qkA9oEeqCEq-E7vK8TQ" name="跟踪雷达">
+    <ownedAttribute xmi:id="_jH0qkQ9oEeqCEq-E7vK8TQ" name="DealInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_jH0qkg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_jH0qkw9oEeqCEq-E7vK8TQ" name="OprtInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_jH0qlA9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_jH0qlQ9oEeqCEq-E7vK8TQ" name="RelateActor">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_jH0qlg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_kr8vwA9oEeqCEq-E7vK8TQ" name="电子侦察">
+    <ownedAttribute xmi:id="_kr8vwQ9oEeqCEq-E7vK8TQ" name="DealInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_kr8vwg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_kr8vww9oEeqCEq-E7vK8TQ" name="OprtInfo">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_kr8vxA9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_kr8vxQ9oEeqCEq-E7vK8TQ" name="RelateActor">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_kr8vxg9oEeqCEq-E7vK8TQ" value=""/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Realization" xmi:id="_4ZwUsA_4EeqADMeGkU6DvQ" name="" client="_RZH0MA9oEeqCEq-E7vK8TQ" supplier="_SoRu8A9oEeqCEq-E7vK8TQ"/>
+  <packagedElement xmi:type="uml:Realization" xmi:id="_57M5UA_4EeqADMeGkU6DvQ" name="" client="_RZH0MA9oEeqCEq-E7vK8TQ" supplier="_VgAxEA9oEeqCEq-E7vK8TQ"/>
+  <packagedElement xmi:type="uml:Realization" xmi:id="_8EXlQA_4EeqADMeGkU6DvQ" name="" client="_RZH0MA9oEeqCEq-E7vK8TQ" supplier="_UF2gMA9oEeqCEq-E7vK8TQ"/>
+  <packagedElement xmi:type="uml:Realization" xmi:id="_-N-9IA_4EeqADMeGkU6DvQ" name="" client="_SoRu8A9oEeqCEq-E7vK8TQ" supplier="_WjjRsA9oEeqCEq-E7vK8TQ"/>
+  <packagedElement xmi:type="uml:Realization" xmi:id="__FB54A_4EeqADMeGkU6DvQ" name="" client="_SoRu8A9oEeqCEq-E7vK8TQ" supplier="_XcFcMA9oEeqCEq-E7vK8TQ"/>
+  <packagedElement xmi:type="uml:Realization" xmi:id="__pobwA_4EeqADMeGkU6DvQ" name="" client="_SoRu8A9oEeqCEq-E7vK8TQ" supplier="_jH0qkA9oEeqCEq-E7vK8TQ"/>
+  <packagedElement xmi:type="uml:Realization" xmi:id="_AIIVoA_5EeqADMeGkU6DvQ" name="" client="_SoRu8A9oEeqCEq-E7vK8TQ" supplier="_kr8vwA9oEeqCEq-E7vK8TQ"/>
+  <packagedElement xmi:type="uml:Realization" xmi:id="_Aht6UA_5EeqADMeGkU6DvQ" name="" client="_VgAxEA9oEeqCEq-E7vK8TQ" supplier="_YiKTcA9oEeqCEq-E7vK8TQ"/>
+  <packagedElement xmi:type="uml:Realization" xmi:id="_A7578A_5EeqADMeGkU6DvQ" name="" client="_VgAxEA9oEeqCEq-E7vK8TQ" supplier="_bkc_wA9oEeqCEq-E7vK8TQ"/>
+  <packagedElement xmi:type="uml:Realization" xmi:id="_BYnGEA_5EeqADMeGkU6DvQ" name="" client="_VgAxEA9oEeqCEq-E7vK8TQ" supplier="_drZeIA9oEeqCEq-E7vK8TQ"/>
+  <packagedElement xmi:type="uml:Realization" xmi:id="_B2OPIA_5EeqADMeGkU6DvQ" name="" client="_VgAxEA9oEeqCEq-E7vK8TQ" supplier="_hHlRIA9oEeqCEq-E7vK8TQ"/>
+  <packagedElement xmi:type="uml:InformationItem" xmi:id="_5YdkIBWUEeqJNJ4usazcwA" name="传感器管理()" isAbstract="true"/>
+  <packagedElement xmi:type="uml:InformationFlow" xmi:id="_5YmuEBWUEeqJNJ4usazcwA" name="传感器管理()_createflow&amp;传感器管理()_createflow" conveyed="_5YdkIBWUEeqJNJ4usazcwA" informationSource="_UF2gMA9oEeqCEq-E7vK8TQ" informationTarget="_UF2gMA9oEeqCEq-E7vK8TQ">
+    <eAnnotations xmi:id="_5YmuGBWUEeqJNJ4usazcwA" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <details xmi:id="_5YmuGRWUEeqJNJ4usazcwA" key="TaskSet/3ba1b672-932c-4c11-9c72-497392a20ff8/funDecomPkg/sequence/_s_F1wA_YEeqjDam8EyRRugbabe7e6e-56e0-4b26-be42-0a33f98436f0-Sequence.uml#_cAM2cA_-EeqaWqk7PbMD6g"/>
+    </eAnnotations>
+  </packagedElement>
+</uml:Model>

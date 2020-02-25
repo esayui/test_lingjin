@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_fd9r0RWmEeqzq4bHGkSTeA" name="model">
+  <packagedElement xmi:type="uml:Activity" xmi:id="_fetSsBWmEeqzq4bHGkSTeA" name="综合反潜--活动图1" group="_gWuf0BWmEeqzq4bHGkSTeA" node="_jRr1EBWmEeqzq4bHGkSTeA _j2o8QBWmEeqzq4bHGkSTeA _la5kUBWmEeqzq4bHGkSTeA _m0ueABWmEeqzq4bHGkSTeA">
+    <edge xmi:type="uml:ControlFlow" xmi:id="_pcoUYBWmEeqzq4bHGkSTeA" name="连线A" source="_jRr1EBWmEeqzq4bHGkSTeA" target="_j2o8QBWmEeqzq4bHGkSTeA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_pcoUYRWmEeqzq4bHGkSTeA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_pcoUYhWmEeqzq4bHGkSTeA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_rPCtMBWmEeqzq4bHGkSTeA" name="testlineAB" source="_j2o8QBWmEeqzq4bHGkSTeA" target="_la5kUBWmEeqzq4bHGkSTeA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_rPCtMRWmEeqzq4bHGkSTeA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_rPCtMhWmEeqzq4bHGkSTeA"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_tESXkBWmEeqzq4bHGkSTeA" name="" source="_la5kUBWmEeqzq4bHGkSTeA" target="_m0ueABWmEeqzq4bHGkSTeA">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_tEbhgBWmEeqzq4bHGkSTeA" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_tEbhgRWmEeqzq4bHGkSTeA"/>
+    </edge>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_gWuf0BWmEeqzq4bHGkSTeA" name="ActivityPartition1" node="_jRr1EBWmEeqzq4bHGkSTeA _j2o8QBWmEeqzq4bHGkSTeA _la5kUBWmEeqzq4bHGkSTeA _m0ueABWmEeqzq4bHGkSTeA"/>
+    <node xmi:type="uml:InitialNode" xmi:id="_jRr1EBWmEeqzq4bHGkSTeA" name="InitialNode1" inPartition="_gWuf0BWmEeqzq4bHGkSTeA" outgoing="_pcoUYBWmEeqzq4bHGkSTeA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_j2o8QBWmEeqzq4bHGkSTeA" name="测试A" inPartition="_gWuf0BWmEeqzq4bHGkSTeA" outgoing="_rPCtMBWmEeqzq4bHGkSTeA" incoming="_pcoUYBWmEeqzq4bHGkSTeA"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_la5kUBWmEeqzq4bHGkSTeA" name="TestB" inPartition="_gWuf0BWmEeqzq4bHGkSTeA" outgoing="_tESXkBWmEeqzq4bHGkSTeA" incoming="_rPCtMBWmEeqzq4bHGkSTeA"/>
+    <node xmi:type="uml:ActivityFinalNode" xmi:id="_m0ueABWmEeqzq4bHGkSTeA" name="ActivityFinalNode1" inPartition="_gWuf0BWmEeqzq4bHGkSTeA" incoming="_tESXkBWmEeqzq4bHGkSTeA"/>
+  </packagedElement>
+</uml:Model>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_8dpdMBS0Eeq1UbCOhhTSQg" name="model">
+  <packagedElement xmi:type="uml:Activity" xmi:id="_8dqEQBS0Eeq1UbCOhhTSQg" name="综合反潜--活动图0" group="_9esqgBS0Eeq1UbCOhhTSQg _idELABTGEeqcdObVY8YGig _3xF3YBTIEeqcdObVY8YGig __BC28BTIEeqcdObVY8YGig _EhNT4BTJEeqcdObVY8YGig" node="_Nm8wYBTJEeqcdObVY8YGig _OOAwYBTJEeqcdObVY8YGig _TMJeUBTJEeqcdObVY8YGig _Z3tXYBTJEeqcdObVY8YGig _iTQAUBTJEeqcdObVY8YGig _t3rs0BTJEeqcdObVY8YGig _6eRZ4BTJEeqcdObVY8YGig _NhvDwBTKEeqcdObVY8YGig _W_SjUBTKEeqcdObVY8YGig _jy2VYBTKEeqcdObVY8YGig">
+    <edge xmi:type="uml:ControlFlow" xmi:id="_SNdBcBTJEeqcdObVY8YGig" name="" source="_Nm8wYBTJEeqcdObVY8YGig" target="_OOAwYBTJEeqcdObVY8YGig">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_SNgr0BTJEeqcdObVY8YGig" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_SNh58BTJEeqcdObVY8YGig"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_VnyaUBTJEeqcdObVY8YGig" name="" source="_OOAwYBTJEeqcdObVY8YGig" target="_TMJeUBTJEeqcdObVY8YGig">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_Vn4g8BTJEeqcdObVY8YGig" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_Vn5IABTJEeqcdObVY8YGig"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_bwF1UBTJEeqcdObVY8YGig" name="" source="_TMJeUBTJEeqcdObVY8YGig" target="_Z3tXYBTJEeqcdObVY8YGig">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_bwIRkBTJEeqcdObVY8YGig" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_bwKGwBTJEeqcdObVY8YGig"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_obLn4BTJEeqcdObVY8YGig" name="" source="_Z3tXYBTJEeqcdObVY8YGig" target="_iTQAUBTJEeqcdObVY8YGig">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_obOrMBTJEeqcdObVY8YGig" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_obP5UBTJEeqcdObVY8YGig"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_yR4nQBTJEeqcdObVY8YGig" name="" source="_iTQAUBTJEeqcdObVY8YGig" target="_t3rs0BTJEeqcdObVY8YGig">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_yR51YBTJEeqcdObVY8YGig" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_yR6ccBTJEeqcdObVY8YGig"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_GVSEIBTKEeqcdObVY8YGig" name="" source="_t3rs0BTJEeqcdObVY8YGig" target="_6eRZ4BTJEeqcdObVY8YGig">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_GVVugBTKEeqcdObVY8YGig" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_GVW8oBTKEeqcdObVY8YGig"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_Tx_g4BTKEeqcdObVY8YGig" name="" source="_6eRZ4BTJEeqcdObVY8YGig" target="_NhvDwBTKEeqcdObVY8YGig">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_TyCkMBTKEeqcdObVY8YGig" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_TyDyUBTKEeqcdObVY8YGig"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_eYe-cBTKEeqcdObVY8YGig" name="" source="_NhvDwBTKEeqcdObVY8YGig" target="_W_SjUBTKEeqcdObVY8YGig">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_eYgMkBTKEeqcdObVY8YGig" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_eYgMkRTKEeqcdObVY8YGig"/>
+    </edge>
+    <edge xmi:type="uml:ControlFlow" xmi:id="_kvaEQBTKEeqcdObVY8YGig" name="" source="_W_SjUBTKEeqcdObVY8YGig" target="_jy2VYBTKEeqcdObVY8YGig">
+      <guard xmi:type="uml:LiteralBoolean" xmi:id="_kveVsBTKEeqcdObVY8YGig" value="true"/>
+      <weight xmi:type="uml:LiteralInteger" xmi:id="_kvfj0BTKEeqcdObVY8YGig"/>
+    </edge>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_9esqgBS0Eeq1UbCOhhTSQg" name="声纳" node="_Nm8wYBTJEeqcdObVY8YGig _OOAwYBTJEeqcdObVY8YGig"/>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_idELABTGEeqcdObVY8YGig" name="作战管理系统" node="_Z3tXYBTJEeqcdObVY8YGig"/>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_3xF3YBTIEeqcdObVY8YGig" name="反潜火控设备" node="_TMJeUBTJEeqcdObVY8YGig _iTQAUBTJEeqcdObVY8YGig _6eRZ4BTJEeqcdObVY8YGig"/>
+    <group xmi:type="uml:ActivityPartition" xmi:id="__BC28BTIEeqcdObVY8YGig" name="鱼雷发控仪" node="_t3rs0BTJEeqcdObVY8YGig _NhvDwBTKEeqcdObVY8YGig"/>
+    <group xmi:type="uml:ActivityPartition" xmi:id="_EhNT4BTJEeqcdObVY8YGig" name="鱼雷发射装置" node="_W_SjUBTKEeqcdObVY8YGig _jy2VYBTKEeqcdObVY8YGig"/>
+    <node xmi:type="uml:InitialNode" xmi:id="_Nm8wYBTJEeqcdObVY8YGig" name="InitialNode1" inPartition="_9esqgBS0Eeq1UbCOhhTSQg" outgoing="_SNdBcBTJEeqcdObVY8YGig"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_OOAwYBTJEeqcdObVY8YGig" name="探测目标" inPartition="_9esqgBS0Eeq1UbCOhhTSQg" outgoing="_VnyaUBTJEeqcdObVY8YGig" incoming="_SNdBcBTJEeqcdObVY8YGig"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_TMJeUBTJEeqcdObVY8YGig" name="目标运动要素解算" inPartition="_3xF3YBTIEeqcdObVY8YGig" outgoing="_bwF1UBTJEeqcdObVY8YGig" incoming="_VnyaUBTJEeqcdObVY8YGig"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_Z3tXYBTJEeqcdObVY8YGig" name="下达目标指示" inPartition="_idELABTGEeqcdObVY8YGig" outgoing="_obLn4BTJEeqcdObVY8YGig" incoming="_bwF1UBTJEeqcdObVY8YGig"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_iTQAUBTJEeqcdObVY8YGig" name="射击诸元解算" inPartition="_3xF3YBTIEeqcdObVY8YGig" outgoing="_yR4nQBTJEeqcdObVY8YGig" incoming="_obLn4BTJEeqcdObVY8YGig"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_t3rs0BTJEeqcdObVY8YGig" name="设定鱼雷射击参数" inPartition="__BC28BTIEeqcdObVY8YGig" outgoing="_GVSEIBTKEeqcdObVY8YGig" incoming="_yR4nQBTJEeqcdObVY8YGig"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_6eRZ4BTJEeqcdObVY8YGig" name="下达发射指令" inPartition="_3xF3YBTIEeqcdObVY8YGig" outgoing="_Tx_g4BTKEeqcdObVY8YGig" incoming="_GVSEIBTKEeqcdObVY8YGig"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_NhvDwBTKEeqcdObVY8YGig" name="发射" inPartition="__BC28BTIEeqcdObVY8YGig" outgoing="_eYe-cBTKEeqcdObVY8YGig" incoming="_Tx_g4BTKEeqcdObVY8YGig"/>
+    <node xmi:type="uml:OpaqueAction" xmi:id="_W_SjUBTKEeqcdObVY8YGig" name="完成鱼雷发射" inPartition="_EhNT4BTJEeqcdObVY8YGig" outgoing="_kvaEQBTKEeqcdObVY8YGig" incoming="_eYe-cBTKEeqcdObVY8YGig"/>
+    <node xmi:type="uml:ActivityFinalNode" xmi:id="_jy2VYBTKEeqcdObVY8YGig" name="ActivityFinalNode1" inPartition="_EhNT4BTJEeqcdObVY8YGig" incoming="_kvaEQBTKEeqcdObVY8YGig"/>
+  </packagedElement>
+</uml:Model>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_x2pkwTafEeq9tO0rQAOkkg" name="E:\LJ\验收资源\2顶层模型库-水面\顶层模型库-水面\\images\Background.jpg" viewpoint="1#769#1127">
+  <packagedElement xmi:type="uml:Device" xmi:id="_y4I28DafEeq9tO0rQAOkkg" name="Device1">
+    <ownedAttribute xmi:id="_Mgv_wDtJEeqObLJFmwaDLQ" name="SupportSoftware">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_Mg0RMDtJEeqObLJFmwaDLQ" value="d8d7c573-73c8-486e-b844-b32f2857f022.xlsx:aaa.txt:response.zip:员工年终总结[仁谷窦盛].docx"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_Mico4DtJEeqObLJFmwaDLQ" name="RelatedComponent">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_MidP8DtJEeqObLJFmwaDLQ" value="57048f14-d5ad-43d7-9aaf-2f45b1618204Ver10.1"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_cO5E4TtPEeqAJKyS2DYPPA" name="Attribute">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_cO8IMDtPEeqAJKyS2DYPPA" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&#xD;&#xA;&lt;DeviceAttributes description=&quot;&quot; fckSys=&quot;&quot; ip=&quot;&quot; isvisible=&quot;true&quot; name=&quot;&quot; path=&quot;&quot;/>&#xD;&#xA;"/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Device" xmi:id="_InIrATdFEeqi1b4eQF78_Q" name="Device2"/>
+  <packagedElement xmi:type="uml:Device" xmi:id="_exDuYDtJEeqObLJFmwaDLQ" name="Device3">
+    <ownedAttribute xmi:id="_pmlGcDtJEeqObLJFmwaDLQ" name="RelatedComponent">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_pmlGcTtJEeqObLJFmwaDLQ" value="57048f14-d5ad-43d7-9aaf-2f45b1618204Ver10.1"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_pmlGcjtJEeqObLJFmwaDLQ" name="SupportSoftware">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_pmltgDtJEeqObLJFmwaDLQ" value="Project2"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_R6HlwUPcEeqQ4_lVwFPReA" name="Attribute">
+      <defaultValue xmi:type="uml:LiteralString" xmi:id="_R6HlwkPcEeqQ4_lVwFPReA" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&#xD;&#xA;&lt;DeviceAttributes description=&quot;&quot; fckSys=&quot;&quot; ip=&quot;&quot; isvisible=&quot;true&quot; name=&quot;&quot; path=&quot;E:\deploy&quot;/>&#xD;&#xA;"/>
+    </ownedAttribute>
+  </packagedElement>
+</uml:Model>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20110701" xmlns:xmi="http://www.omg.org/spec/XMI/20110701" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_KtDMsTG1EeqCq5VROcOP1g" name="model">
+  <packagedElement xmi:type="uml:StateMachine" xmi:id="_Ktf4oDG1EeqCq5VROcOP1g" name="StateMachine0">
+    <region xmi:id="_KtpCkDG1EeqCq5VROcOP1g" name="Region0">
+      <subvertex xmi:type="uml:State" xmi:id="_zwGY4THtEeq8eskvgFiFfg" name="State0"/>
+      <subvertex xmi:type="uml:State" xmi:id="_0GeRgDHtEeq8eskvgFiFfg" name="State1"/>
+      <subvertex xmi:type="uml:Pseudostate" xmi:id="_0-b0QDHtEeq8eskvgFiFfg" name="Initial0"/>
+      <subvertex xmi:type="uml:Pseudostate" xmi:id="_1gCsgDHtEeq8eskvgFiFfg" name="ShallowHistory0" kind="shallowHistory"/>
+    </region>
+  </packagedElement>
+</uml:Model>

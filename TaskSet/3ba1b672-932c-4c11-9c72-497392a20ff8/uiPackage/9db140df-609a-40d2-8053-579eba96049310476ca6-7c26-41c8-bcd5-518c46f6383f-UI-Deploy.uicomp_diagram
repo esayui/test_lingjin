@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:org.seri.mdt.design="uicomp.design.mdt.seri.org" xmi:id="_fGRuoDaiEeq9tO0rQAOkkg" type="Uicomp" name="9db140df-609a-40d2-8053-579eba96049310476ca6-7c26-41c8-bcd5-518c46f6383f-UI-Deploy.uicomp_diagram" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_gkgnMDaiEeq9tO0rQAOkkg" type="2001" fontName="Microsoft YaHei UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_gkgnMjaiEeq9tO0rQAOkkg" type="5001"/>
+    <element xmi:type="org.seri.mdt.design:CustomScreen" href="file:/E:/LJ/验收资源/2顶层模型库-水面/顶层模型库-水面/TaskSet/3ba1b672-932c-4c11-9c72-497392a20ff8/uiPackage//9db140df-609a-40d2-8053-579eba96049310476ca6-7c26-41c8-bcd5-518c46f6383f-UI-Deploy.uicomp#//@rScreens.0"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gkgnMTaiEeq9tO0rQAOkkg" x="18" y="18" width="300" height="600"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_fGRuoTaiEeq9tO0rQAOkkg"/>
+  <element xmi:type="org.seri.mdt.design:BasePanel" href="file:/E:/LJ/验收资源/2顶层模型库-水面/顶层模型库-水面/TaskSet/3ba1b672-932c-4c11-9c72-497392a20ff8/uiPackage//9db140df-609a-40d2-8053-579eba96049310476ca6-7c26-41c8-bcd5-518c46f6383f-UI-Deploy.uicomp#/"/>
+</notation:Diagram>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_TD8PsFOiEeqtFMBycwZtUw" type="PapyrusUMLStateMachineDiagram" name="我方战舰--状态图" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_TD8PsVOiEeqtFMBycwZtUw" type="2000" fontName="Microsoft YaHei UI" lineColor="0">
+    <children xmi:type="notation:DecorationNode" xmi:id="_TD8PslOiEeqtFMBycwZtUw" type="2001">
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TD8Ps1OiEeqtFMBycwZtUw" width="700" height="17"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_TD8PtFOiEeqtFMBycwZtUw" type="2002">
+      <children xmi:type="notation:Shape" xmi:id="_TD8PtVOiEeqtFMBycwZtUw" type="3000" fontName="Microsoft YaHei UI" lineColor="0">
+        <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_TD8PtlOiEeqtFMBycwZtUw" source="RegionAnnotationKey">
+          <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_TD8Pt1OiEeqtFMBycwZtUw" key="RegionZoneKey" value=""/>
+        </eAnnotations>
+        <children xmi:type="notation:DecorationNode" xmi:id="_TD8PuFOiEeqtFMBycwZtUw" type="3002">
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TD8PuVOiEeqtFMBycwZtUw"/>
+        </children>
+        <element xmi:type="uml:Region" href="6a1bc949-728e-4801-92f5-df4a839298df-Statemachine.uml#_S62lIFOiEeqtFMBycwZtUw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TD8PulOiEeqtFMBycwZtUw" width="700" height="287"/>
+      </children>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TD8Pu1OiEeqtFMBycwZtUw" y="17" width="700" height="287"/>
+    </children>
+    <element xmi:type="uml:StateMachine" href="6a1bc949-728e-4801-92f5-df4a839298df-Statemachine.uml#_S6jqMFOiEeqtFMBycwZtUw"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_TD8PvFOiEeqtFMBycwZtUw" x="30" y="30" width="700" height="304"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_TD8PvVOiEeqtFMBycwZtUw"/>
+  <element xmi:type="uml:StateMachine" href="6a1bc949-728e-4801-92f5-df4a839298df-Statemachine.uml#_S6jqMFOiEeqtFMBycwZtUw"/>
+</notation:Diagram>

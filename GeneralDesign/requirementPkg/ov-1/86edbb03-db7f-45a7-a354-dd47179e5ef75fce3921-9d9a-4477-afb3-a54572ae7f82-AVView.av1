@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<av1:av1view xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:av1="http://org.seri.mdt/2011/av1">
+  <children xsi:type="av1:UnderwaterShip" id="84177a98-67e2-4adf-ad26-43ca184ae616" name="我方潜艇" imagePath="images\underWaterShipIcon.png" nameBAK="潜艇1"/>
+  <children xsi:type="av1:Torpedo" id="0ba5829c-32e1-46e4-bcf7-3ee4a109eb3a" name="鱼雷1" imagePath="images\torpedo.png" nameBAK="鱼雷1"/>
+  <children xsi:type="av1:UnderwaterShip" id="59257013-424d-49a3-aa41-cf5c372b3f1f" name="潜艇1" angle="270" imagePath="images\underWaterShipIcon.png" nameBAK="潜艇1"/>
+  <children xsi:type="av1:ArrowDashedConnection" name="发射" source="//@children.0" target="//@children.1"/>
+  <children xsi:type="av1:ArrowDashedConnection" name="攻击" source="//@children.1" target="//@children.2"/>
+</av1:av1view>

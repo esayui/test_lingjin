@@ -1,0 +1,163 @@
+I-Logix-RPY-Archive version 8.14.0 * 9810313
+{ CGEMdiWorkspace 
+	- stubList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- isLoadOnDemand = 0;
+	- myViewsWithID = { IRPYRawContainer 
+		- size = 4;
+		- value = 
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 52;
+				- m_nTop = 52;
+				- m_nRight = 809;
+				- m_nBottom = 329;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IActivityDiagram";
+				- _filename = ".\\Project2_rpy\\Default.sbs";
+				- _subsystem = "Default";
+				- _class = "usecase_0";
+				- _name = "ActivityDiagram";
+				- _id = GUID 5aca96ce-3664-4bd0-a982-062d66818d90;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 720 217 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 3;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 78;
+				- m_nTop = 78;
+				- m_nRight = 835;
+				- m_nBottom = 355;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IMSC";
+				- _filename = ".\\Project2_rpy\\Default.sbs";
+				- _subsystem = "Default";
+				- _class = "usecase_0";
+				- _name = "sequencediagram_7";
+				- _id = GUID fd5f1cc8-563d-4a56-bab7-3c5607b0b61e;
+			}
+			- _UpLeft = 0 17 ;
+			- _DownRight = 720 214 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 2;
+			- m_bIsActiveView = 0;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 2;
+				- m_showCmd = 3;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 104;
+				- m_nTop = 104;
+				- m_nRight = 861;
+				- m_nBottom = 381;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = ".\\Project2_rpy\\Default.sbs";
+				- _subsystem = "Default";
+				- _class = "usecase_0";
+				- _name = "StatechartDiagram";
+				- _id = GUID ccd23c16-51af-4129-939b-7661d90224a3;
+			}
+			- _UpLeft = 0 0 ;
+			- _DownRight = 840 360 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 0;
+			- m_bIsActiveView = 1;
+		}
+		{ CGEMdiDiagramParams 
+			- _placement = { CCommon_WINDOWPLACEMENT 
+				- m_nLength = 44;
+				- m_nFlags = 0;
+				- m_showCmd = 1;
+				- m_ptMinPositionX = -1;
+				- m_ptMinPositionY = -1;
+				- m_ptMaxPositionX = -8;
+				- m_ptMaxPositionY = -31;
+				- m_nLeft = 78;
+				- m_nTop = 78;
+				- m_nRight = 835;
+				- m_nBottom = 355;
+			}
+			- _wasOpenedOnCloseProject = 1;
+			- _theDiagram = { IHandle 
+				- _m2Class = "IStateChartDiagram";
+				- _filename = ".\\Project2_rpy\\model.sbs";
+				- _subsystem = "model";
+				- _class = "TopLevel";
+				- _name = "StateMachine0";
+				- _id = GUID 365b70fe-9b54-4fc0-9712-a47f439638f0;
+			}
+			- _UpLeft = 0 10 ;
+			- _DownRight = 720 227 ;
+			- _instanceName = "";
+			- m_nDiagramIndex = 1;
+			- m_bIsActiveView = 0;
+		}
+	}
+	- _fullName = "E:\\Rhapsody\\Project2\\Project2";
+	- _selectedPerspective = "Basic";
+	- m_SearchScopeList = { IRPYRawContainer 
+		- size = 0;
+	}
+	- bUsingBrowserCustomView = 0;
+	- bApplyOnDiagrams = 0;
+	- liCustomViewIDs = { IRPYRawContainer 
+		- size = 0;
+	}
+	- mapOslcRmCollections = { IRPYRawContainer 
+		- size = 0;
+	}
+
+	- m_favoritesTree = {
+		count=2;
+		{ - favoritesItem
+			generation = 0;
+			name =  ’≤ÿº–;
+			idOrFolder = folder-expanded;
+		}
+		{ - favoritesItem
+			generation = 1;
+			name = ActivityDiagram;
+			idOrFolder = #startHnd# INObjectHandle 
+	- _m2Class = "IActivityDiagram"#hndSem#
+	- _filename = "E:\\Rhapsody\\Project2\\Project2_rpy\\Default.sbs"#hndSem#
+	- _subsystem = "Default"#hndSem#
+	- _class = "usecase_0"#hndSem#
+	- _name = "ActivityDiagram"#hndSem#
+	- _id = GUID 5aca96ce-3664-4bd0-a982-062d66818d90#hndSem#
+#endHnd#;
+		}
+	}
+
+}
+

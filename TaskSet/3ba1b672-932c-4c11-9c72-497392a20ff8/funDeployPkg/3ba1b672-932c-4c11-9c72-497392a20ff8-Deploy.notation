@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/4.0.0/UML" xmi:id="_CSND8A9eEeqpvfSfjQkXuA" type="PapyrusUMLDeploymentDiagram" name="对空自防御--系统部署图" measurementUnit="Pixel">
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_CSND8Q9eEeqpvfSfjQkXuA"/>
+  <element xmi:type="uml:Model" href="3ba1b672-932c-4c11-9c72-497392a20ff8-Deploy.uml#_CSL10A9eEeqpvfSfjQkXuA"/>
+</notation:Diagram>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<av1:av1view xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:av1="http://org.seri.mdt/2011/av1">
+  <children xsi:type="av1:Warship" id="c50b5561-0473-47af-8c3c-d03f6ff4c925" name="战舰1" imagePath="images\warship.png" nameBAK="战舰1"/>
+  <children xsi:type="av1:Warship" id="4c57b5b4-a6d4-4a9d-a386-f9a1837e0084" name="战舰1" imagePath="images\warship.png" nameBAK="战舰1"/>
+  <children xsi:type="av1:Warship" id="3c4babf6-a32c-46d8-8adc-b6bbefd1ed9d" name="战舰1" imagePath="images\warship.png" nameBAK="战舰1"/>
+  <children xsi:type="av1:BomerPlane" id="7367955e-9d2f-4f6a-9f82-ffe56ec147d3" name="反潜侦察机" imagePath="images\BomerPlaneImage.png" nameBAK="战斗机1"/>
+  <children xsi:type="av1:UnderwaterShip" id="33d92540-bf1c-41e7-9471-7f683946967c" name="我方潜艇" imagePath="images\underWaterShipIcon.png" nameBAK="潜艇1"/>
+  <children xsi:type="av1:UnderwaterShip" id="2f49fdc3-ba14-458c-9aac-220bbda0a58d" name="敌潜艇" angle="270" imagePath="images\underWaterShipIcon.png" nameBAK="潜艇1"/>
+  <children xsi:type="av1:Torpedo" id="22d41874-d4c9-4a02-90ea-b0eec41df57a" name="鱼雷1" imagePath="images\torpedo.png" nameBAK="鱼雷1"/>
+  <children xsi:type="av1:Connection" name="数据链" source="//@children.4" target="//@children.1"/>
+  <children xsi:type="av1:Connection" name="数据链" source="//@children.0" target="//@children.1"/>
+  <children xsi:type="av1:Connection" name="数据链" source="//@children.2" target="//@children.1"/>
+  <children xsi:type="av1:Connection" name="数据链" source="//@children.3" target="//@children.1"/>
+  <children xsi:type="av1:ArrowDashedConnection" name="发射" source="//@children.4" target="//@children.6"/>
+  <children xsi:type="av1:Connection" name="攻击" source="//@children.6" target="//@children.5"/>
+</av1:av1view>
